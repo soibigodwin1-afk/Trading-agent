@@ -9,23 +9,49 @@
 # confirm exact codes against Deriv's active_symbols list before
 # going live, these are illustrative.
 # ---------------------------------------------------------------- #
-watchlists:
-  liquid:          # used for 15m and 5m scans
-    - { symbol: "frxEURUSD", source: deriv, label: "EUR/USD" }
-    - { symbol: "frxGBPUSD", source: deriv, label: "GBP/USD" }
-    - { symbol: "cryBTCUSD", source: deriv, label: "BTC/USD" }
-    - { symbol: "OTC_SPX",   source: deriv, label: "S&P 500" }
-  broad:           # used for 1H, 4H, 1D scans
+    watchlists:
+  liquid:          # fast 15m/5m scans -- most liquid subset
     - { symbol: "frxEURUSD", source: deriv, label: "EUR/USD" }
     - { symbol: "frxGBPUSD", source: deriv, label: "GBP/USD" }
     - { symbol: "frxUSDJPY", source: deriv, label: "USD/JPY" }
+    - { symbol: "frxXAUUSD", source: deriv, label: "XAU/USD" }
     - { symbol: "cryBTCUSD", source: deriv, label: "BTC/USD" }
     - { symbol: "cryETHUSD", source: deriv, label: "ETH/USD" }
-    - { symbol: "OTC_SPX",   source: deriv, label: "S&P 500" }
-    - { symbol: "OTC_NDX",   source: deriv, label: "Nasdaq 100" }
-    - { symbol: "AAPL",      source: yfinance, label: "Apple" }
-    - { symbol: "MSFT",      source: yfinance, label: "Microsoft" }
-
+    - { symbol: "OTC_DJI",   source: deriv, label: "US 30" }
+    - { symbol: "OTC_NDX",   source: deriv, label: "US 100" }
+    - { symbol: "OTC_FTSE",  source: deriv, label: "UK 100" }
+  broad:           # 1H/4H/1D scans -- full list
+    - { symbol: "OTC_AS51",  source: deriv, label: "AU 200" }
+    - { symbol: "OTC_DJI",   source: deriv, label: "US 30" }
+    - { symbol: "OTC_FTSE",  source: deriv, label: "UK 100" }
+    - { symbol: "OTC_N225",  source: deriv, label: "JP 225" }
+    - { symbol: "OTC_NDX",   source: deriv, label: "US 100" }
+    - { symbol: "frxAUDJPY", source: deriv, label: "AUD/JPY" }
+    - { symbol: "frxAUDNZD", source: deriv, label: "AUD/NZD" }
+    - { symbol: "frxEURUSD", source: deriv, label: "EUR/USD" }
+    - { symbol: "frxGBPUSD", source: deriv, label: "GBP/USD" }
+    - { symbol: "frxNZDJPY", source: deriv, label: "NZD/JPY" }
+    - { symbol: "frxNZDUSD", source: deriv, label: "NZD/USD" }
+    - { symbol: "frxUSDCAD", source: deriv, label: "USD/CAD" }
+    - { symbol: "frxUSDCHF", source: deriv, label: "USD/CHF" }
+    - { symbol: "frxUSDJPY", source: deriv, label: "USD/JPY" }
+    - { symbol: "frxXAUUSD", source: deriv, label: "XAU/USD" }
+    - { symbol: "frxXAGUSD", source: deriv, label: "XAG/USD" }
+    - { symbol: "cryBTCUSD", source: deriv, label: "BTC/USD" }
+    - { symbol: "cryETHUSD", source: deriv, label: "ETH/USD" }
+    - { symbol: "frxAUDCAD", source: deriv, label: "AUD/CAD" }
+    - { symbol: "frxAUDCHF", source: deriv, label: "AUD/CHF" }
+    - { symbol: "frxEURAUD", source: deriv, label: "EUR/AUD" }
+    - { symbol: "frxEURCAD", source: deriv, label: "EUR/CAD" }
+    - { symbol: "frxEURCHF", source: deriv, label: "EUR/CHF" }
+    - { symbol: "frxEURJPY", source: deriv, label: "EUR/JPY" }
+    - { symbol: "frxEURGBP", source: deriv, label: "EUR/GBP" }
+    - { symbol: "frxEURNZD", source: deriv, label: "EUR/NZD" }
+    - { symbol: "frxGBPAUD", source: deriv, label: "GBP/AUD" }
+    - { symbol: "frxGBPCAD", source: deriv, label: "GBP/CAD" }
+    - { symbol: "frxGBPCHF", source: deriv, label: "GBP/CHF" }
+    - { symbol: "frxGBPJPY", source: deriv, label: "GBP/JPY" }
+    - { symbol: "frxGBPNZD", source: deriv, label: "GBP/NZD" }
 # ---------------------------------------------------------------- #
 # Primary / Proximate / Distal timeframe relationships (Vol.3 Ch.8),
 # replacing independent per-timeframe scanning. Each entry defines
