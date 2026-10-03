@@ -1,0 +1,136 @@
+# ---------------------------------------------------------------- #
+# Watchlists, split by timeframe tier per Gartley's own principle:
+# confine fast-timeframe ("minor trend") trading to a small list of
+# liquid, actively-traded instruments; the daily/4H list can be wider.
+#
+# `source` is "deriv" (no API token needed -- forex/crypto/indices)
+# or "yfinance" (needed for individual stocks, which Deriv doesn't
+# offer). Deriv symbol codes: frxEURUSD, cryBTCUSD, OTC_SPX, etc. --
+# confirm exact codes against Deriv's active_symbols list before
+# going live, these are illustrative.
+# ---------------------------------------------------------------- #
+watchlists:
+  liquid:          # used for 15m and 5m scans
+    - { symbol: "frxEURUSD", source: deriv, label: "EUR/USD" }
+    - { symbol: "frxGBPUSD", source: deriv, label: "GBP/USD" }
+    - { symbol: "cryBTCUSD", source: deriv, label: "BTC/USD" }
+    - { symbol: "OTC_SPX",   source: deriv, label: "S&P 500" }
+  broad:           # used for 1H, 4H, 1D scans
+    - { symbol: "frxEURUSD", source: deriv, label: "EUR/USD" }
+    - { symbol: "frxGBPUSD", source: deriv, label: "GBP/USD" }
+    - { symbol: "frxUSDJPY", source: deriv, label: "USD/JPY" }
+    - { symbol: "cryBTCUSD", source: deriv, label: "BTC/USD" }
+    - { symbol: "cryETHUSD", source: deriv, label: "ETH/USD" }
+    - { symbol: "OTC_SPX",   source: deriv, label: "S&P 500" }
+    - { symbol: "OTC_NDX",   source: deriv, label: "Nasdaq 100" }
+    - { symbol: "AAPL",      source: yfinance, label: "Apple" }
+    - { symbol: "MSFT",      source: yfinance, label: "Microsoft" }
+
+# ---------------------------------------------------------------- #
+# Primary / Proximate / Distal timeframe relationships (Vol.3 Ch.8),
+# replacing independent per-timeframe scanning. Each entry defines
+# one "trade style"; proximate = shorter TF for entry timing/RSI,
+# distal = longer TF for trend context and extended targets.
+# ---------------------------------------------------------------- #
+timeframe_groups:
+  intraday:
+    primary: 15m
+    proximate: 5m
+    distal: 1H
+    watchlist: liquid
+  swing:
+    primary: 1H
+    proximate: 15m
+    distal: 4H
+    watchlist: broad
+  position:
+    primary: 1D
+    proximate: 4H
+    distal: null       # no higher TF available in our set
+    watchlist: broad
+
+# 5m is Carney's own stated reliability floor territory (he considers
+# 15m the minimum reliable execution timeframe) -- held to a stricter
+# confluence bar rather than excluded outright.
+confluence_minimum:
+  default: 3
+  "5m": 4
+
+# ---------------------------------------------------------------- #
+# ZigZag pivot sensitivity, per timeframe (a fixed global % doesn't
+# suit both a 5m crypto chart and a 1D forex chart equally).
+# ---------------------------------------------------------------- #
+zigzag_threshold_pct:
+  "1D": 3.0
+  "4H": 2.0
+  "1H": 1.5
+  "15m": 1.0
+  "5m": 0.7
+
+# Statistical validity floor (Vol.3 Ch.8): reject formations spanning
+# fewer than this many bars, regardless of how clean the ratios look.
+min_pattern_bars: 30
+
+# PRZ should span roughly 3-5% of the pattern's total range (Vol.3
+# Ch.3) -- wider than this flags a looser, lower-quality formation.
+prz_width_quality_pct: 6.0
+
+# ---------------------------------------------------------------- #
+# RSI / RSI BAMM -- Carney's real documented levels (Vol.2 Ch.6,
+# Vol.3 Ch.5): standard 70/30, 80/20 deep-extreme tier, 50 as both
+# the BAMM divergence validity line and the trend-regime gauge.
+# Indicator confirmation is a HARD GATE, not a scoring bonus --
+# a pattern without it does not fire a full completion alert.
+# ---------------------------------------------------------------- #
+rsi:
+  period: 14
+  require_confirmation: true
+
+# Chart-pattern tolerance (how close two swing highs/lows must be, as
+# a % of price, to count as "equal" tops/bottoms/shoulders).
+chart_pattern_tolerance_pct: 1.5
+
+# Outcome tracking: single target line for the binary win/loss model.
+# 61.8% chosen over 38.2% -- closer to what the source material treats
+# as confirming a genuine reversal rather than a minor reaction.
+# Still an open/tunable choice -- change freely.
+outcome_target_ratio: 0.618
+
+# Max bars to wait for a pattern to resolve before marking it expired
+# (no clear outcome), scaled per timeframe.
+resolution_timeout_bars:
+  "1D": 20
+  "4H": 30
+  "1H": 40
+  "15m": 60
+  "5m": 80
+
+# Forming-pattern (Phase 2) alerts -- informational only, never wired
+# into anything actionable. OFF by default; enable per timeframe once
+# the core completed-pattern pipeline has been validated.
+forming_alerts:
+  enabled: false
+  min_confluence: 2
+  expiry_bars:
+    "1D": 15
+    "4H": 20
+    "1H": 25
+    "15m": 30
+    "5m": 40
+
+# Regime/volatility filter: skip scanning when current ATR sits below
+# this percentile of its own recent history (dead/choppy conditions
+# produce noisy zigzag pivots that technically satisfy ratios without
+# being real structure).
+volatility_floor_percentile: 0.25
+
+# Reporting cadence. Both are skipped automatically if there's no new
+# data since the last one -- see report.py.
+reporting:
+  weekly_digest: true
+  monthly_analysis: true
+  calibration_sample_min: 30      # min resolved outcomes per bucket
+                                    # before a calibration change may
+                                    # even be proposed
+  calibration_expiry_days: 14      # unanswered Accept/Decline proposals
+                                    # expire (default: no change)

@@ -1,0 +1,12 @@
+{
+  "last_run": null,
+  "alerted": {},
+  "watching": {},
+  "outcomes": [],
+  "forming": {},
+  "pending_calibrations": [],
+  "bucket_overrides": {},
+  "last_weekly_report": null,
+  "last_monthly_report": null,
+  "telegram_update_offset": null
+}

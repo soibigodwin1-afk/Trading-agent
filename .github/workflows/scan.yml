@@ -1,0 +1,45 @@
+name: Pattern Scan
+
+on:
+  schedule:
+    # Every 30 minutes. scan.py only ever evaluates fully closed
+    # candles, so an occasional GitHub-side delay never causes a
+    # false read -- a late run just sees one extra closed candle.
+    - cron: "*/30 * * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write  # needed so the workflow can commit state.json back
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scan.py
+
+      - name: Commit updated state (heartbeat + outcome log + dedup memory)
+        run: |
+          git config user.name "trading-agent-bot"
+          git config user.email "actions@github.com"
+          git add state.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update scan state [skip ci]"
+            git push
+          else
+            echo "No state changes to commit."
+          fi
