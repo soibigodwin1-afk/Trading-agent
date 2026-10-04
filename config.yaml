@@ -5,12 +5,10 @@
 #
 # `source` is "deriv" (no API token needed -- forex/crypto/indices)
 # or "yfinance" (needed for individual stocks, which Deriv doesn't
-# offer). Deriv symbol codes: frxEURUSD, cryBTCUSD, OTC_SPX, etc. --
-# confirm exact codes against Deriv's active_symbols list before
-# going live, these are illustrative.
+# offer).
 # ---------------------------------------------------------------- #
-    watchlists:
-  liquid:          # fast 15m/5m scans -- most liquid subset
+watchlists:
+  liquid:          # used for 15m and 5m scans -- most liquid subset
     - { symbol: "frxEURUSD", source: deriv, label: "EUR/USD" }
     - { symbol: "frxGBPUSD", source: deriv, label: "GBP/USD" }
     - { symbol: "frxUSDJPY", source: deriv, label: "USD/JPY" }
@@ -20,7 +18,7 @@
     - { symbol: "OTC_DJI",   source: deriv, label: "US 30" }
     - { symbol: "OTC_NDX",   source: deriv, label: "US 100" }
     - { symbol: "OTC_FTSE",  source: deriv, label: "UK 100" }
-  broad:           # 1H/4H/1D scans -- full list
+  broad:           # used for 1H, 4H, 1D scans -- full list
     - { symbol: "OTC_AS51",  source: deriv, label: "AU 200" }
     - { symbol: "OTC_DJI",   source: deriv, label: "US 30" }
     - { symbol: "OTC_FTSE",  source: deriv, label: "UK 100" }
@@ -52,6 +50,7 @@
     - { symbol: "frxGBPCHF", source: deriv, label: "GBP/CHF" }
     - { symbol: "frxGBPJPY", source: deriv, label: "GBP/JPY" }
     - { symbol: "frxGBPNZD", source: deriv, label: "GBP/NZD" }
+
 # ---------------------------------------------------------------- #
 # Primary / Proximate / Distal timeframe relationships (Vol.3 Ch.8),
 # replacing independent per-timeframe scanning. Each entry defines
@@ -156,7 +155,7 @@ reporting:
   weekly_digest: true
   monthly_analysis: true
   calibration_sample_min: 30      # min resolved outcomes per bucket
-                                    # before a calibration change may
-                                    # even be proposed
-  calibration_expiry_days: 14      # unanswered Accept/Decline proposals
-                                    # expire (default: no change)
+                                   # before a calibration change may
+                                   # even be proposed
+  calibration_expiry_days: 14     # unanswered Accept/Decline proposals
+                                   # expire (default: no change)
