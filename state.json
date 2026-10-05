@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-05T05:50:27.702442+00:00",
+  "last_run": "2026-10-05T06:18:59.788525+00:00",
   "alerted": {
     "frxGBPUSD|15m|Rounding Top|bearish|2026-10-02 20:30:00+00:00": "2026-10-02 20:30:00+00:00",
     "frxXAUUSD|15m|Double Bottom|bullish|2026-10-02 01:00:00+00:00": "2026-10-02 01:00:00+00:00",
@@ -16742,7 +16742,7 @@
   "forming": {},
   "pending_calibrations": [],
   "bucket_overrides": {},
-  "last_weekly_report": null,
-  "last_monthly_report": null,
+  "last_weekly_report": "2026-10-05T06:18:59.456642+00:00",
+  "last_monthly_report": "2026-10-05T06:18:59.788483+00:00",
   "telegram_update_offset": null
 }
