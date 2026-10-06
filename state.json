@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-06T06:30:55.322328+00:00",
+  "last_run": "2026-10-06T06:55:31.439046+00:00",
   "alerted": {
     "frxGBPUSD|15m|Rounding Top|bearish|2026-10-02 20:30:00+00:00": "2026-10-02 20:30:00+00:00",
     "frxXAUUSD|15m|Double Bottom|bullish|2026-10-02 01:00:00+00:00": "2026-10-02 01:00:00+00:00",
@@ -364,7 +364,7 @@
       "message_id": 6588,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:25:58.844146+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Double Top|bearish|2026-06-03 00:00:00+00:00": {
@@ -378,7 +378,7 @@
       "message_id": 6589,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:25:59.820976+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Double Bottom|bullish|2026-06-09 00:00:00+00:00": {
@@ -392,7 +392,7 @@
       "message_id": 6590,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:00.932204+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Head & Shoulders|bearish|2026-03-10 00:00:00+00:00": {
@@ -406,7 +406,7 @@
       "message_id": 6591,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:02.011321+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Inverse Head & Shoulders|bullish|2026-04-29 00:00:00+00:00": {
@@ -420,7 +420,7 @@
       "message_id": 6592,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:03.001086+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Head & Shoulders|bearish|2026-05-06 00:00:00+00:00": {
@@ -434,7 +434,7 @@
       "message_id": 6593,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:04.143114+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Inverse Head & Shoulders|bullish|2026-06-09 00:00:00+00:00": {
@@ -448,7 +448,7 @@
       "message_id": 6594,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:05.284348+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Double Bottom|bullish|2026-05-18 00:00:00+00:00": {
@@ -462,7 +462,7 @@
       "message_id": 6600,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:14.864721+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Double Bottom|bullish|2026-06-10 00:00:00+00:00": {
@@ -476,7 +476,7 @@
       "message_id": 6602,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:17.263208+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Inverse Head & Shoulders|bullish|2026-05-05 00:00:00+00:00": {
@@ -490,7 +490,7 @@
       "message_id": 6603,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:18.469435+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Inverse Head & Shoulders|bullish|2026-06-10 00:00:00+00:00": {
@@ -504,7 +504,7 @@
       "message_id": 6605,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:21.124048+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxAUDJPY|1D|Double Top|bearish|2026-06-02 00:00:00+00:00": {
@@ -518,7 +518,7 @@
       "message_id": 6635,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:03.889832+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxAUDJPY|1D|Double Top|bearish|2026-07-27 00:00:00+00:00": {
@@ -532,7 +532,7 @@
       "message_id": 6636,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:04.848172+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxAUDJPY|1D|Head & Shoulders|bearish|2026-07-27 00:00:00+00:00": {
@@ -546,7 +546,7 @@
       "message_id": 6637,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:05.805260+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURUSD|1D|Double Top|bearish|2026-08-21 00:00:00+00:00": {
@@ -560,7 +560,7 @@
       "message_id": 6639,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:10.651656+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxGBPUSD|1D|Double Bottom|bullish|2026-06-24 00:00:00+00:00": {
@@ -574,7 +574,7 @@
       "message_id": 6641,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:14.100893+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxGBPUSD|1D|Double Top|bearish|2026-08-21 00:00:00+00:00": {
@@ -588,7 +588,7 @@
       "message_id": 6642,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:15.283025+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Top|bearish|2026-04-22 00:00:00+00:00": {
@@ -602,7 +602,7 @@
       "message_id": 6645,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:19.953028+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Top|bearish|2026-07-21 00:00:00+00:00": {
@@ -616,7 +616,7 @@
       "message_id": 6649,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:24.478778+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxUSDJPY|1D|Double Top|bearish|2026-02-05 00:00:00+00:00": {
@@ -627,9 +627,9 @@
       "entry": 157.963,
       "stop": 159.454,
       "target": 144.748,
-      "message_id": 6659,
+      "message_id": 6822,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:39.706902+00:00",
+      "opened_at": "2026-10-06T06:53:09.433028+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -641,9 +641,9 @@
       "entry": 157.963,
       "stop": 152.101,
       "target": 162.575,
-      "message_id": 6660,
+      "message_id": 6823,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:40.756002+00:00",
+      "opened_at": "2026-10-06T06:53:10.205505+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -655,9 +655,9 @@
       "entry": 157.963,
       "stop": 155.037,
       "target": 172.939,
-      "message_id": 6661,
+      "message_id": 6824,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:41.993580+00:00",
+      "opened_at": "2026-10-06T06:53:10.960847+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -669,9 +669,9 @@
       "entry": 85716.576,
       "stop": 78163.709,
       "target": 87453.513,
-      "message_id": 6675,
+      "message_id": 6838,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:59.155064+00:00",
+      "opened_at": "2026-10-06T06:53:23.522949+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -683,9 +683,9 @@
       "entry": 1.61008,
       "stop": 1.68458,
       "target": 1.5377399999999999,
-      "message_id": 6805,
+      "message_id": 6968,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:23.957366+00:00",
+      "opened_at": "2026-10-06T06:55:11.088691+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -697,9 +697,9 @@
       "entry": 177.185,
       "stop": 187.95,
       "target": 174.75000000000003,
-      "message_id": 6806,
+      "message_id": 6969,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:29.539266+00:00",
+      "opened_at": "2026-10-06T06:55:14.551744+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -711,9 +711,9 @@
       "entry": 177.185,
       "stop": 187.95,
       "target": 170.79000000000002,
-      "message_id": 6808,
+      "message_id": 6971,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:31.855148+00:00",
+      "opened_at": "2026-10-06T06:55:16.279111+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -725,9 +725,9 @@
       "entry": 177.185,
       "stop": 187.95,
       "target": 165.81500000000005,
-      "message_id": 6809,
+      "message_id": 6972,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:33.139490+00:00",
+      "opened_at": "2026-10-06T06:55:17.162177+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -739,9 +739,9 @@
       "entry": 2.00392,
       "stop": 2.04408,
       "target": 1.85284,
-      "message_id": 6810,
+      "message_id": 6973,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:37.809078+00:00",
+      "opened_at": "2026-10-06T06:55:19.465975+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -753,9 +753,9 @@
       "entry": 2.00392,
       "stop": 1.94469,
       "target": 2.1141199999999998,
-      "message_id": 6811,
+      "message_id": 6974,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:38.890556+00:00",
+      "opened_at": "2026-10-06T06:55:20.212572+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -767,9 +767,9 @@
       "entry": 2.00392,
       "stop": 2.03129,
       "target": 1.8580900000000002,
-      "message_id": 6812,
+      "message_id": 6975,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:39.944619+00:00",
+      "opened_at": "2026-10-06T06:55:21.075601+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -781,9 +781,9 @@
       "entry": 2.00392,
       "stop": 1.94387,
       "target": 2.10277,
-      "message_id": 6813,
+      "message_id": 6976,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:41.183120+00:00",
+      "opened_at": "2026-10-06T06:55:21.934518+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -795,9 +795,9 @@
       "entry": 1.89735,
       "stop": 1.85401,
       "target": 2.01079,
-      "message_id": 6815,
+      "message_id": 6978,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:44.603242+00:00",
+      "opened_at": "2026-10-06T06:55:24.318741+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -809,9 +809,9 @@
       "entry": 1.89735,
       "stop": 1.94016,
       "target": 1.7678599999999998,
-      "message_id": 6816,
+      "message_id": 6979,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:45.711792+00:00",
+      "opened_at": "2026-10-06T06:55:25.077688+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -823,9 +823,9 @@
       "entry": 2.36143,
       "stop": 2.24011,
       "target": 2.41231,
-      "message_id": 6819,
+      "message_id": 6982,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:54.322079+00:00",
+      "opened_at": "2026-10-06T06:55:30.660506+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -840,7 +840,7 @@
       "message_id": 6655,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:32.463847+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|15m|Double Bottom|bullish|2026-10-05 05:15:00+00:00": {
@@ -854,7 +854,7 @@
       "message_id": 2296,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T07:51:24.439026+00:00",
-      "bars_open": 39,
+      "bars_open": 40,
       "max_bars": 60
     },
     "cryETHUSD|15m|Double Bottom|bullish|2026-10-05 05:30:00+00:00": {
@@ -868,7 +868,7 @@
       "message_id": 2298,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T07:51:31.125763+00:00",
-      "bars_open": 39,
+      "bars_open": 40,
       "max_bars": 60
     },
     "OTC_FTSE|15m|Double Bottom|bullish|2026-10-01 15:00:00+00:00": {
@@ -882,7 +882,7 @@
       "message_id": 2300,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T07:51:40.002375+00:00",
-      "bars_open": 39,
+      "bars_open": 40,
       "max_bars": 60
     },
     "OTC_FTSE|15m|Inverse Head & Shoulders|bullish|2026-10-01 15:00:00+00:00": {
@@ -896,7 +896,7 @@
       "message_id": 2301,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T07:51:41.680720+00:00",
-      "bars_open": 39,
+      "bars_open": 40,
       "max_bars": 60
     },
     "cryBTCUSD|1H|Double Top|bearish|2026-10-05 01:00:00+00:00": {
@@ -910,7 +910,7 @@
       "message_id": 2307,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T07:52:35.914914+00:00",
-      "bars_open": 39,
+      "bars_open": 40,
       "max_bars": 40
     },
     "cryBTCUSD|1H|Head & Shoulders|bearish|2026-10-05 01:00:00+00:00": {
@@ -924,7 +924,7 @@
       "message_id": 2308,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T07:52:37.169043+00:00",
-      "bars_open": 39,
+      "bars_open": 40,
       "max_bars": 40
     },
     "cryETHUSD|1H|Double Top|bearish|2026-10-04 23:00:00+00:00": {
@@ -938,7 +938,7 @@
       "message_id": 2310,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T07:52:43.675938+00:00",
-      "bars_open": 39,
+      "bars_open": 40,
       "max_bars": 40
     },
     "cryETHUSD|1H|Head & Shoulders|bearish|2026-10-04 23:00:00+00:00": {
@@ -952,7 +952,7 @@
       "message_id": 2311,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T07:52:45.042095+00:00",
-      "bars_open": 39,
+      "bars_open": 40,
       "max_bars": 40
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-06-09 00:00:00+00:00": {
@@ -966,7 +966,7 @@
       "message_id": 6617,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:38.463270+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-06-10 00:00:00+00:00": {
@@ -980,7 +980,7 @@
       "message_id": 6618,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:39.646863+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-07-08 00:00:00+00:00": {
@@ -994,7 +994,7 @@
       "message_id": 6622,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:44.353432+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Inverse Head & Shoulders|bullish|2026-06-10 00:00:00+00:00": {
@@ -1008,7 +1008,7 @@
       "message_id": 6628,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:51.931312+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Inverse Head & Shoulders|bullish|2026-08-04 00:00:00+00:00": {
@@ -1022,7 +1022,7 @@
       "message_id": 6631,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:55.684287+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|15m|Double Top|bearish|2026-10-05 14:00:00+00:00": {
@@ -1036,7 +1036,7 @@
       "message_id": 3578,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T14:52:16.782770+00:00",
-      "bars_open": 25,
+      "bars_open": 26,
       "max_bars": 60
     },
     "cryETHUSD|15m|Double Top|bearish|2026-10-05 08:00:00+00:00": {
@@ -1050,7 +1050,7 @@
       "message_id": 3579,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T14:52:22.573224+00:00",
-      "bars_open": 25,
+      "bars_open": 26,
       "max_bars": 60
     },
     "OTC_DJI|15m|Double Top|bearish|2026-10-01 12:30:00+00:00": {
@@ -1064,7 +1064,7 @@
       "message_id": 3580,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T14:52:28.060616+00:00",
-      "bars_open": 25,
+      "bars_open": 26,
       "max_bars": 60
     },
     "OTC_DJI|15m|Double Bottom|bullish|2026-10-01 15:00:00+00:00": {
@@ -1078,7 +1078,7 @@
       "message_id": 3581,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T14:52:29.296328+00:00",
-      "bars_open": 25,
+      "bars_open": 26,
       "max_bars": 60
     },
     "OTC_DJI|15m|Double Top|bearish|2026-10-02 13:00:00+00:00": {
@@ -1092,7 +1092,7 @@
       "message_id": 3582,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T14:52:30.792991+00:00",
-      "bars_open": 25,
+      "bars_open": 26,
       "max_bars": 60
     },
     "OTC_NDX|15m|Double Bottom|bullish|2026-10-01 15:00:00+00:00": {
@@ -1106,7 +1106,7 @@
       "message_id": 3583,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T14:52:36.170155+00:00",
-      "bars_open": 25,
+      "bars_open": 26,
       "max_bars": 60
     },
     "frxXAUUSD|15m|Double Top|bearish|2026-10-05 08:15:00+00:00": {
@@ -1120,7 +1120,7 @@
       "message_id": 3997,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T15:53:47.139333+00:00",
-      "bars_open": 23,
+      "bars_open": 24,
       "max_bars": 60
     },
     "frxXAUUSD|15m|Head & Shoulders|bearish|2026-10-05 08:15:00+00:00": {
@@ -1134,7 +1134,7 @@
       "message_id": 3998,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T15:53:48.245259+00:00",
-      "bars_open": 23,
+      "bars_open": 24,
       "max_bars": 60
     },
     "OTC_FTSE|15m|Double Top|bearish|2026-10-01 12:30:00+00:00": {
@@ -1148,7 +1148,7 @@
       "message_id": 4002,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T15:54:14.130978+00:00",
-      "bars_open": 23,
+      "bars_open": 24,
       "max_bars": 60
     },
     "cryBTCUSD|1H|Inverse Head & Shoulders|bullish|2026-10-05 05:00:00+00:00": {
@@ -1162,7 +1162,7 @@
       "message_id": 4004,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T15:55:05.174186+00:00",
-      "bars_open": 23,
+      "bars_open": 24,
       "max_bars": 40
     },
     "cryBTCUSD|1H|Double Top|bearish|2026-10-05 14:00:00+00:00": {
@@ -1176,7 +1176,7 @@
       "message_id": 4421,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T16:23:42.602819+00:00",
-      "bars_open": 22,
+      "bars_open": 23,
       "max_bars": 40
     },
     "cryETHUSD|1H|Double Bottom|bullish|2026-10-05 16:00:00+00:00": {
@@ -1190,7 +1190,7 @@
       "message_id": 5289,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T23:17:46.381532+00:00",
-      "bars_open": 14,
+      "bars_open": 15,
       "max_bars": 40
     },
     "cryETHUSD|1H|Inverse Head & Shoulders|bullish|2026-10-05 16:00:00+00:00": {
@@ -1204,7 +1204,7 @@
       "message_id": 5290,
       "chat_id": "5952681562",
       "opened_at": "2026-10-05T23:17:47.704542+00:00",
-      "bars_open": 14,
+      "bars_open": 15,
       "max_bars": 40
     },
     "OTC_DJI|1D|Double Bottom|bullish|2026-03-30 00:00:00+00:00": {
@@ -1218,7 +1218,7 @@
       "message_id": 6596,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:08.703281+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Double Bottom|bullish|2026-03-23 00:00:00+00:00": {
@@ -1232,7 +1232,7 @@
       "message_id": 6599,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:13.656897+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Double Top|bearish|2026-05-26 00:00:00+00:00": {
@@ -1246,7 +1246,7 @@
       "message_id": 6601,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:16.004848+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Head & Shoulders|bearish|2026-05-06 00:00:00+00:00": {
@@ -1260,7 +1260,7 @@
       "message_id": 6604,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:19.875388+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-01-21 00:00:00+00:00": {
@@ -1274,7 +1274,7 @@
       "message_id": 6607,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:26.072223+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-01-28 00:00:00+00:00": {
@@ -1288,7 +1288,7 @@
       "message_id": 6608,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:27.198903+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-02-03 00:00:00+00:00": {
@@ -1302,7 +1302,7 @@
       "message_id": 6609,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:28.325558+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-02-03 00:00:00+00:00": {
@@ -1316,7 +1316,7 @@
       "message_id": 6610,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:29.469617+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-02-17 00:00:00+00:00": {
@@ -1330,7 +1330,7 @@
       "message_id": 6611,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:31.315964+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-02-26 00:00:00+00:00": {
@@ -1344,7 +1344,7 @@
       "message_id": 6612,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:32.501148+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-03-03 00:00:00+00:00": {
@@ -1358,7 +1358,7 @@
       "message_id": 6613,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:33.761512+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-03-04 00:00:00+00:00": {
@@ -1372,7 +1372,7 @@
       "message_id": 6614,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:34.956321+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-03-09 00:00:00+00:00": {
@@ -1386,7 +1386,7 @@
       "message_id": 6615,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:36.164511+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-03-10 00:00:00+00:00": {
@@ -1400,7 +1400,7 @@
       "message_id": 6616,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:37.297589+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-06-22 00:00:00+00:00": {
@@ -1414,7 +1414,7 @@
       "message_id": 6619,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:40.865956+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-06-26 00:00:00+00:00": {
@@ -1428,7 +1428,7 @@
       "message_id": 6620,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:41.974599+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-06-30 00:00:00+00:00": {
@@ -1442,7 +1442,7 @@
       "message_id": 6621,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:43.197712+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-08-17 00:00:00+00:00": {
@@ -1456,7 +1456,7 @@
       "message_id": 6623,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:45.489800+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Head & Shoulders|bearish|2026-02-03 00:00:00+00:00": {
@@ -1470,7 +1470,7 @@
       "message_id": 6625,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:48.314960+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Head & Shoulders|bearish|2026-03-23 00:00:00+00:00": {
@@ -1484,7 +1484,7 @@
       "message_id": 6626,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:49.418984+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Head & Shoulders|bearish|2026-06-09 00:00:00+00:00": {
@@ -1498,7 +1498,7 @@
       "message_id": 6627,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:50.783991+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Double Bottom|bullish|2026-02-06 00:00:00+00:00": {
@@ -1512,7 +1512,7 @@
       "message_id": 6587,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:25:57.881555+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Inverse Head & Shoulders|bullish|2026-02-03 00:00:00+00:00": {
@@ -1526,7 +1526,7 @@
       "message_id": 6624,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:46.800090+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Head & Shoulders|bearish|2026-06-22 00:00:00+00:00": {
@@ -1540,7 +1540,7 @@
       "message_id": 6629,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:53.273851+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Head & Shoulders|bearish|2026-07-15 00:00:00+00:00": {
@@ -1554,7 +1554,7 @@
       "message_id": 6630,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:26:54.503391+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURUSD|1D|Double Bottom|bullish|2026-06-24 00:00:00+00:00": {
@@ -1568,7 +1568,7 @@
       "message_id": 6638,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:09.594169+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Bottom|bullish|2026-03-31 00:00:00+00:00": {
@@ -1582,7 +1582,7 @@
       "message_id": 6644,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:18.986261+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Bottom|bullish|2026-04-30 00:00:00+00:00": {
@@ -1596,7 +1596,7 @@
       "message_id": 6646,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:21.017001+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Top|bearish|2026-05-29 00:00:00+00:00": {
@@ -1610,7 +1610,7 @@
       "message_id": 6647,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:22.140759+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Bottom|bullish|2026-06-26 00:00:00+00:00": {
@@ -1624,7 +1624,7 @@
       "message_id": 6648,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:23.246908+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Bottom|bullish|2026-08-03 00:00:00+00:00": {
@@ -1638,7 +1638,7 @@
       "message_id": 6650,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:25.471688+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Inverse Head & Shoulders|bullish|2026-08-03 00:00:00+00:00": {
@@ -1652,7 +1652,7 @@
       "message_id": 6651,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:26.699414+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDUSD|1D|Double Bottom|bullish|2026-04-03 00:00:00+00:00": {
@@ -1666,7 +1666,7 @@
       "message_id": 6653,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:30.443637+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDUSD|1D|Double Bottom|bullish|2026-06-26 00:00:00+00:00": {
@@ -1680,7 +1680,7 @@
       "message_id": 6654,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:31.504761+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxUSDCHF|1D|Double Top|bearish|2026-03-31 00:00:00+00:00": {
@@ -1694,7 +1694,7 @@
       "message_id": 6657,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T06:27:36.482596+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-03-23 00:00:00+00:00": {
@@ -1705,9 +1705,9 @@
       "entry": 85716.576,
       "stop": 71776.971,
       "target": 63559.60900000001,
-      "message_id": 6662,
+      "message_id": 6825,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:45.623173+00:00",
+      "opened_at": "2026-10-06T06:53:13.395071+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1719,9 +1719,9 @@
       "entry": 85716.576,
       "stop": 71992.867,
       "target": 65999.129,
-      "message_id": 6663,
+      "message_id": 6826,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:46.606652+00:00",
+      "opened_at": "2026-10-06T06:53:14.167383+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1733,9 +1733,9 @@
       "entry": 85716.576,
       "stop": 64942.709,
       "target": 72770.57200000001,
-      "message_id": 6664,
+      "message_id": 6827,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:47.574065+00:00",
+      "opened_at": "2026-10-06T06:53:14.980450+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1747,9 +1747,9 @@
       "entry": 85716.576,
       "stop": 69142.861,
       "target": 60742.557,
-      "message_id": 6665,
+      "message_id": 6828,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:48.576428+00:00",
+      "opened_at": "2026-10-06T06:53:15.751964+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1761,9 +1761,9 @@
       "entry": 85716.576,
       "stop": 64942.709,
       "target": 71324.82500000001,
-      "message_id": 6666,
+      "message_id": 6829,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:49.726774+00:00",
+      "opened_at": "2026-10-06T06:53:16.522844+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1775,9 +1775,9 @@
       "entry": 85716.576,
       "stop": 65685.297,
       "target": 72734.483,
-      "message_id": 6667,
+      "message_id": 6830,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:50.803806+00:00",
+      "opened_at": "2026-10-06T06:53:17.281538+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1789,9 +1789,9 @@
       "entry": 85716.576,
       "stop": 73122.67,
       "target": 62679.00099999999,
-      "message_id": 6668,
+      "message_id": 6831,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:51.884659+00:00",
+      "opened_at": "2026-10-06T06:53:18.020246+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1803,9 +1803,9 @@
       "entry": 85716.576,
       "stop": 73763.831,
       "target": 67733.86400000002,
-      "message_id": 6669,
+      "message_id": 6832,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:52.885844+00:00",
+      "opened_at": "2026-10-06T06:53:18.798406+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1817,9 +1817,9 @@
       "entry": 85716.576,
       "stop": 70428.267,
       "target": 77099.395,
-      "message_id": 6670,
+      "message_id": 6833,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:53.850246+00:00",
+      "opened_at": "2026-10-06T06:53:19.563211+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1831,9 +1831,9 @@
       "entry": 85716.576,
       "stop": 78298.139,
       "target": 70711.329,
-      "message_id": 6671,
+      "message_id": 6834,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:54.826117+00:00",
+      "opened_at": "2026-10-06T06:53:20.314828+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1845,9 +1845,9 @@
       "entry": 85716.576,
       "stop": 73686.277,
       "target": 80251.786,
-      "message_id": 6672,
+      "message_id": 6835,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:55.845105+00:00",
+      "opened_at": "2026-10-06T06:53:21.083244+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1859,9 +1859,9 @@
       "entry": 85716.576,
       "stop": 79437.807,
       "target": 72766.07899999998,
-      "message_id": 6673,
+      "message_id": 6836,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:56.932927+00:00",
+      "opened_at": "2026-10-06T06:53:21.970600+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1873,9 +1873,9 @@
       "entry": 85716.576,
       "stop": 74902.05,
       "target": 80821.45399999998,
-      "message_id": 6674,
+      "message_id": 6837,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:27:58.008831+00:00",
+      "opened_at": "2026-10-06T06:53:22.744219+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1887,9 +1887,9 @@
       "entry": 85716.576,
       "stop": 82808.611,
       "target": 75502.33499999999,
-      "message_id": 6676,
+      "message_id": 6839,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:00.171297+00:00",
+      "opened_at": "2026-10-06T06:53:24.311221+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1901,9 +1901,9 @@
       "entry": 85716.576,
       "stop": 78725.05,
       "target": 85720.237,
-      "message_id": 6677,
+      "message_id": 6840,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:01.162931+00:00",
+      "opened_at": "2026-10-06T06:53:25.099993+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1915,9 +1915,9 @@
       "entry": 85716.576,
       "stop": 82437.855,
       "target": 75012.24500000001,
-      "message_id": 6678,
+      "message_id": 6841,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:02.142650+00:00",
+      "opened_at": "2026-10-06T06:53:25.860764+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1929,9 +1929,9 @@
       "entry": 85716.576,
       "stop": 78618.939,
       "target": 85271.072,
-      "message_id": 6679,
+      "message_id": 6842,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:03.182757+00:00",
+      "opened_at": "2026-10-06T06:53:26.627236+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1943,9 +1943,9 @@
       "entry": 85716.576,
       "stop": 81998.061,
       "target": 75239.817,
-      "message_id": 6680,
+      "message_id": 6843,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:04.262596+00:00",
+      "opened_at": "2026-10-06T06:53:27.399381+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1957,9 +1957,9 @@
       "entry": 85716.576,
       "stop": 74227.987,
       "target": 80384.68100000001,
-      "message_id": 6681,
+      "message_id": 6844,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:05.401623+00:00",
+      "opened_at": "2026-10-06T06:53:28.165211+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1971,9 +1971,9 @@
       "entry": 85716.576,
       "stop": 78056.459,
       "target": 70593.12099999998,
-      "message_id": 6682,
+      "message_id": 6845,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:06.531588+00:00",
+      "opened_at": "2026-10-06T06:53:29.022068+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1985,9 +1985,9 @@
       "entry": 85716.576,
       "stop": 59096.833,
       "target": 68812.619,
-      "message_id": 6683,
+      "message_id": 6846,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:07.596217+00:00",
+      "opened_at": "2026-10-06T06:53:29.807737+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -1999,9 +1999,9 @@
       "entry": 85716.576,
       "stop": 64230.168,
       "target": 54950.113999999994,
-      "message_id": 6684,
+      "message_id": 6847,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:08.587714+00:00",
+      "opened_at": "2026-10-06T06:53:30.567572+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2013,9 +2013,9 @@
       "entry": 85716.576,
       "stop": 64230.168,
       "target": 57172.07,
-      "message_id": 6685,
+      "message_id": 6848,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:09.584754+00:00",
+      "opened_at": "2026-10-06T06:53:31.388749+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2027,9 +2027,9 @@
       "entry": 85716.576,
       "stop": 60701.119,
       "target": 67045.33300000001,
-      "message_id": 6686,
+      "message_id": 6849,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:10.587949+00:00",
+      "opened_at": "2026-10-06T06:53:32.198243+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2041,9 +2041,9 @@
       "entry": 85716.576,
       "stop": 62240.661,
       "target": 67320.14499999999,
-      "message_id": 6687,
+      "message_id": 6850,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:11.732490+00:00",
+      "opened_at": "2026-10-06T06:53:32.980553+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2055,9 +2055,9 @@
       "entry": 85716.576,
       "stop": 65594.688,
       "target": 59769.261000000006,
-      "message_id": 6688,
+      "message_id": 6851,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:12.872742+00:00",
+      "opened_at": "2026-10-06T06:53:33.827856+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2069,9 +2069,9 @@
       "entry": 85716.576,
       "stop": 61888.05,
       "target": 68914.544,
-      "message_id": 6689,
+      "message_id": 6852,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:13.969641+00:00",
+      "opened_at": "2026-10-06T06:53:34.631984+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2083,9 +2083,9 @@
       "entry": 85716.576,
       "stop": 58087.153,
       "target": 65775.079,
-      "message_id": 6690,
+      "message_id": 6853,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:14.941315+00:00",
+      "opened_at": "2026-10-06T06:53:35.483233+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2097,9 +2097,9 @@
       "entry": 85716.576,
       "stop": 58296.334,
       "target": 63553.13799999999,
-      "message_id": 6691,
+      "message_id": 6854,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:15.985555+00:00",
+      "opened_at": "2026-10-06T06:53:36.246395+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2111,9 +2111,9 @@
       "entry": 85716.576,
       "stop": 60924.736,
       "target": 56824.956,
-      "message_id": 6692,
+      "message_id": 6855,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:17.049812+00:00",
+      "opened_at": "2026-10-06T06:53:37.000059+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2125,9 +2125,9 @@
       "entry": 85716.576,
       "stop": 64675.31,
       "target": 57924.79000000001,
-      "message_id": 6693,
+      "message_id": 6856,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:18.057431+00:00",
+      "opened_at": "2026-10-06T06:53:37.778924+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2139,9 +2139,9 @@
       "entry": 85716.576,
       "stop": 61300.05,
       "target": 67295.386,
-      "message_id": 6694,
+      "message_id": 6857,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:19.025280+00:00",
+      "opened_at": "2026-10-06T06:53:38.530318+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2153,9 +2153,9 @@
       "entry": 85716.576,
       "stop": 64678.156,
       "target": 58755.494,
-      "message_id": 6695,
+      "message_id": 6858,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:20.100062+00:00",
+      "opened_at": "2026-10-06T06:53:39.370505+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2167,9 +2167,9 @@
       "entry": 85716.576,
       "stop": 61526.606,
       "target": 67829.706,
-      "message_id": 6696,
+      "message_id": 6859,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:21.171747+00:00",
+      "opened_at": "2026-10-06T06:53:40.147972+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2181,9 +2181,9 @@
       "entry": 85716.576,
       "stop": 65556.282,
       "target": 58933.92999999999,
-      "message_id": 6697,
+      "message_id": 6860,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:22.147487+00:00",
+      "opened_at": "2026-10-06T06:53:40.907925+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2195,9 +2195,9 @@
       "entry": 85716.576,
       "stop": 61806.043,
       "target": 69306.52100000001,
-      "message_id": 6698,
+      "message_id": 6861,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:23.219730+00:00",
+      "opened_at": "2026-10-06T06:53:41.695956+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2209,9 +2209,9 @@
       "entry": 85716.576,
       "stop": 65781.098,
       "target": 59457.941999999995,
-      "message_id": 6699,
+      "message_id": 6862,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:24.189211+00:00",
+      "opened_at": "2026-10-06T06:53:42.613022+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2223,9 +2223,9 @@
       "entry": 85716.576,
       "stop": 63710.204,
       "target": 70109.82,
-      "message_id": 6700,
+      "message_id": 6863,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:25.188759+00:00",
+      "opened_at": "2026-10-06T06:53:43.379167+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2237,9 +2237,9 @@
       "entry": 85716.576,
       "stop": 63567.37,
       "target": 67848.37400000001,
-      "message_id": 6701,
+      "message_id": 6864,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:26.221795+00:00",
+      "opened_at": "2026-10-06T06:53:44.142619+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2251,9 +2251,9 @@
       "entry": 85716.576,
       "stop": 65779.289,
       "target": 61355.451,
-      "message_id": 6702,
+      "message_id": 6865,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:27.344093+00:00",
+      "opened_at": "2026-10-06T06:53:44.914846+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2265,9 +2265,9 @@
       "entry": 85716.576,
       "stop": 62717.71,
       "target": 67865.72,
-      "message_id": 6703,
+      "message_id": 6866,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:28.437784+00:00",
+      "opened_at": "2026-10-06T06:53:45.679706+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2279,9 +2279,9 @@
       "entry": 85716.576,
       "stop": 65716.545,
       "target": 59718.875,
-      "message_id": 6704,
+      "message_id": 6867,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:29.436421+00:00",
+      "opened_at": "2026-10-06T06:53:46.447985+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2293,9 +2293,9 @@
       "entry": 85716.576,
       "stop": 62243.795,
       "target": 68052.95000000001,
-      "message_id": 6705,
+      "message_id": 6868,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:30.510039+00:00",
+      "opened_at": "2026-10-06T06:53:47.230877+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2307,9 +2307,9 @@
       "entry": 85716.576,
       "stop": 65448.444,
       "target": 59102.259999999995,
-      "message_id": 6706,
+      "message_id": 6869,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:31.472617+00:00",
+      "opened_at": "2026-10-06T06:53:47.996698+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2321,9 +2321,9 @@
       "entry": 85716.576,
       "stop": 62243.795,
       "target": 68653.09300000001,
-      "message_id": 6707,
+      "message_id": 6870,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:32.466180+00:00",
+      "opened_at": "2026-10-06T06:53:48.853693+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2335,9 +2335,9 @@
       "entry": 85716.576,
       "stop": 79526.548,
       "target": 66458.30400000002,
-      "message_id": 6708,
+      "message_id": 6871,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:33.440114+00:00",
+      "opened_at": "2026-10-06T06:53:49.611895+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2349,9 +2349,9 @@
       "entry": 85716.576,
       "stop": 71992.867,
       "target": 60991.966000000015,
-      "message_id": 6709,
+      "message_id": 6872,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:34.569513+00:00",
+      "opened_at": "2026-10-06T06:53:50.382598+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2363,9 +2363,9 @@
       "entry": 85716.576,
       "stop": 64942.709,
       "target": 75020.43000000002,
-      "message_id": 6710,
+      "message_id": 6873,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:35.656276+00:00",
+      "opened_at": "2026-10-06T06:53:51.183425+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2377,9 +2377,9 @@
       "entry": 85716.576,
       "stop": 65685.297,
       "target": 78124.00899999999,
-      "message_id": 6711,
+      "message_id": 6874,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:36.630598+00:00",
+      "opened_at": "2026-10-06T06:53:52.070782+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2391,9 +2391,9 @@
       "entry": 85716.576,
       "stop": 78298.139,
       "target": 66303.27,
-      "message_id": 6712,
+      "message_id": 6875,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:37.732976+00:00",
+      "opened_at": "2026-10-06T06:53:52.810518+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2405,9 +2405,9 @@
       "entry": 85716.576,
       "stop": 73686.277,
       "target": 85787.00949999999,
-      "message_id": 6713,
+      "message_id": 6876,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:38.735983+00:00",
+      "opened_at": "2026-10-06T06:53:53.578689+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2419,9 +2419,9 @@
       "entry": 85716.576,
       "stop": 79437.807,
       "target": 68817.79349999999,
-      "message_id": 6714,
+      "message_id": 6877,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:39.740080+00:00",
+      "opened_at": "2026-10-06T06:53:54.365666+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2433,9 +2433,9 @@
       "entry": 85716.576,
       "stop": 74902.05,
       "target": 84569.18349999998,
-      "message_id": 6715,
+      "message_id": 6878,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:40.739582+00:00",
+      "opened_at": "2026-10-06T06:53:55.130531+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2447,9 +2447,9 @@
       "entry": 85716.576,
       "stop": 82808.611,
       "target": 71353.31499999999,
-      "message_id": 6716,
+      "message_id": 6879,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:41.849557+00:00",
+      "opened_at": "2026-10-06T06:53:55.964648+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2461,9 +2461,9 @@
       "entry": 85716.576,
       "stop": 78056.459,
       "target": 64782.34849999998,
-      "message_id": 6717,
+      "message_id": 6880,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:42.943187+00:00",
+      "opened_at": "2026-10-06T06:53:56.750561+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2475,9 +2475,9 @@
       "entry": 85716.576,
       "stop": 64230.168,
       "target": 53018.6715,
-      "message_id": 6718,
+      "message_id": 6881,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:43.989659+00:00",
+      "opened_at": "2026-10-06T06:53:57.503473+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2489,9 +2489,9 @@
       "entry": 85716.576,
       "stop": 67254.856,
       "target": 55737.913499999995,
-      "message_id": 6719,
+      "message_id": 6882,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:45.057285+00:00",
+      "opened_at": "2026-10-06T06:53:58.254538+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2503,9 +2503,9 @@
       "entry": 85716.576,
       "stop": 62240.661,
       "target": 71097.11349999999,
-      "message_id": 6720,
+      "message_id": 6883,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:46.029504+00:00",
+      "opened_at": "2026-10-06T06:53:59.016489+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2517,9 +2517,9 @@
       "entry": 85716.576,
       "stop": 65594.688,
       "target": 55441.72900000002,
-      "message_id": 6721,
+      "message_id": 6884,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:47.107101+00:00",
+      "opened_at": "2026-10-06T06:53:59.791094+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2531,9 +2531,9 @@
       "entry": 85716.576,
       "stop": 58087.153,
       "target": 70774.22350000001,
-      "message_id": 6722,
+      "message_id": 6885,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:48.074994+00:00",
+      "opened_at": "2026-10-06T06:54:00.553407+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2545,9 +2545,9 @@
       "entry": 85716.576,
       "stop": 57773.494,
       "target": 67437.7855,
-      "message_id": 6723,
+      "message_id": 6886,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:49.171765+00:00",
+      "opened_at": "2026-10-06T06:54:01.317068+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2559,9 +2559,9 @@
       "entry": 85716.576,
       "stop": 64675.31,
       "target": 53676.996000000014,
-      "message_id": 6724,
+      "message_id": 6887,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:50.270541+00:00",
+      "opened_at": "2026-10-06T06:54:02.086650+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2573,9 +2573,9 @@
       "entry": 85716.576,
       "stop": 66922.921,
       "target": 57349.31499999999,
-      "message_id": 6725,
+      "message_id": 6888,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:51.250220+00:00",
+      "opened_at": "2026-10-06T06:54:02.934125+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2587,9 +2587,9 @@
       "entry": 85716.576,
       "stop": 62243.795,
       "target": 71699.95700000001,
-      "message_id": 6726,
+      "message_id": 6889,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:52.443431+00:00",
+      "opened_at": "2026-10-06T06:54:03.708506+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2601,9 +2601,9 @@
       "entry": 2708.695,
       "stop": 2197.2595,
       "target": 1876.605,
-      "message_id": 6729,
+      "message_id": 6892,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:56.810938+00:00",
+      "opened_at": "2026-10-06T06:54:06.679020+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2615,9 +2615,9 @@
       "entry": 2708.695,
       "stop": 2197.895,
       "target": 2007.6904999999997,
-      "message_id": 6730,
+      "message_id": 6893,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:57.956474+00:00",
+      "opened_at": "2026-10-06T06:54:07.478136+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2629,9 +2629,9 @@
       "entry": 2708.695,
       "stop": 2083.485,
       "target": 1797.6350000000002,
-      "message_id": 6731,
+      "message_id": 6894,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:28:59.140243+00:00",
+      "opened_at": "2026-10-06T06:54:08.292195+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2643,9 +2643,9 @@
       "entry": 2708.695,
       "stop": 2167.095,
       "target": 1864.355,
-      "message_id": 6732,
+      "message_id": 6895,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:00.345858+00:00",
+      "opened_at": "2026-10-06T06:54:09.200222+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2657,9 +2657,9 @@
       "entry": 2708.695,
       "stop": 2015.725,
       "target": 2300.265,
-      "message_id": 6733,
+      "message_id": 6896,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:01.400021+00:00",
+      "opened_at": "2026-10-06T06:54:10.012048+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2671,9 +2671,9 @@
       "entry": 2708.695,
       "stop": 2173.235,
       "target": 1883.7150000000001,
-      "message_id": 6734,
+      "message_id": 6897,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:02.417524+00:00",
+      "opened_at": "2026-10-06T06:54:10.892805+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2685,9 +2685,9 @@
       "entry": 2708.695,
       "stop": 2272.9245,
       "target": 2040.3054999999995,
-      "message_id": 6735,
+      "message_id": 6898,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:03.408306+00:00",
+      "opened_at": "2026-10-06T06:54:11.672897+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2699,9 +2699,9 @@
       "entry": 2708.695,
       "stop": 2156.615,
       "target": 2356.7160000000003,
-      "message_id": 6736,
+      "message_id": 6899,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:04.500526+00:00",
+      "opened_at": "2026-10-06T06:54:12.468399+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2713,9 +2713,9 @@
       "entry": 2708.695,
       "stop": 2174.815,
       "target": 2484.39,
-      "message_id": 6737,
+      "message_id": 6900,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:05.629779+00:00",
+      "opened_at": "2026-10-06T06:54:13.292354+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2727,9 +2727,9 @@
       "entry": 2708.695,
       "stop": 2414.315,
       "target": 2189.6150000000002,
-      "message_id": 6738,
+      "message_id": 6901,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:06.779527+00:00",
+      "opened_at": "2026-10-06T06:54:14.089855+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2741,9 +2741,9 @@
       "entry": 2708.695,
       "stop": 2283.695,
       "target": 2466.5249999999996,
-      "message_id": 6739,
+      "message_id": 6902,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:07.900648+00:00",
+      "opened_at": "2026-10-06T06:54:14.880984+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2755,9 +2755,9 @@
       "entry": 2708.695,
       "stop": 2251.405,
       "target": 2643.6150000000002,
-      "message_id": 6740,
+      "message_id": 6903,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:08.940734+00:00",
+      "opened_at": "2026-10-06T06:54:15.732334+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2769,9 +2769,9 @@
       "entry": 2708.695,
       "stop": 2251.405,
       "target": 2456.565,
-      "message_id": 6741,
+      "message_id": 6904,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:09.958225+00:00",
+      "opened_at": "2026-10-06T06:54:16.537086+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2783,9 +2783,9 @@
       "entry": 2708.695,
       "stop": 2258.995,
       "target": 2585.455,
-      "message_id": 6742,
+      "message_id": 6905,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:10.970639+00:00",
+      "opened_at": "2026-10-06T06:54:17.345816+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2797,9 +2797,9 @@
       "entry": 2708.695,
       "stop": 2283.575,
       "target": 2478.26,
-      "message_id": 6743,
+      "message_id": 6906,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:12.084393+00:00",
+      "opened_at": "2026-10-06T06:54:18.185021+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2811,9 +2811,9 @@
       "entry": 2708.695,
       "stop": 2403.215,
       "target": 2216.6325,
-      "message_id": 6744,
+      "message_id": 6907,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:13.237576+00:00",
+      "opened_at": "2026-10-06T06:54:18.973266+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2825,9 +2825,9 @@
       "entry": 2708.695,
       "stop": 2219.235,
       "target": 2473.055,
-      "message_id": 6745,
+      "message_id": 6908,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:14.336959+00:00",
+      "opened_at": "2026-10-06T06:54:19.791922+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2839,9 +2839,9 @@
       "entry": 2708.695,
       "stop": 2422.4415,
       "target": 2217.955,
-      "message_id": 6746,
+      "message_id": 6909,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:15.424572+00:00",
+      "opened_at": "2026-10-06T06:54:20.601839+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2853,9 +2853,9 @@
       "entry": 2708.695,
       "stop": 2278.515,
       "target": 2536.778,
-      "message_id": 6747,
+      "message_id": 6910,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:16.509287+00:00",
+      "opened_at": "2026-10-06T06:54:21.405767+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2867,9 +2867,9 @@
       "entry": 2708.695,
       "stop": 2264.195,
       "target": 2424.055,
-      "message_id": 6748,
+      "message_id": 6911,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:17.502480+00:00",
+      "opened_at": "2026-10-06T06:54:22.250083+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2881,9 +2881,9 @@
       "entry": 2708.695,
       "stop": 2381.875,
       "target": 2177.1050000000005,
-      "message_id": 6749,
+      "message_id": 6912,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:18.520999+00:00",
+      "opened_at": "2026-10-06T06:54:23.113810+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2895,9 +2895,9 @@
       "entry": 2708.695,
       "stop": 2381.875,
       "target": 2224.7749999999996,
-      "message_id": 6750,
+      "message_id": 6913,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:19.697078+00:00",
+      "opened_at": "2026-10-06T06:54:23.923252+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2909,9 +2909,9 @@
       "entry": 2708.695,
       "stop": 2203.775,
       "target": 2411.912,
-      "message_id": 6751,
+      "message_id": 6914,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:20.799977+00:00",
+      "opened_at": "2026-10-06T06:54:24.678728+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2923,9 +2923,9 @@
       "entry": 2708.695,
       "stop": 2322.515,
       "target": 2085.0350000000003,
-      "message_id": 6752,
+      "message_id": 6915,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:21.903844+00:00",
+      "opened_at": "2026-10-06T06:54:25.495824+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2937,9 +2937,9 @@
       "entry": 2708.695,
       "stop": 2077.195,
       "target": 2302.7795,
-      "message_id": 6753,
+      "message_id": 6916,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:23.055738+00:00",
+      "opened_at": "2026-10-06T06:54:26.298920+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2951,9 +2951,9 @@
       "entry": 2708.695,
       "stop": 2156.4455,
       "target": 1860.9845,
-      "message_id": 6754,
+      "message_id": 6917,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:24.068008+00:00",
+      "opened_at": "2026-10-06T06:54:27.153752+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2965,9 +2965,9 @@
       "entry": 2708.695,
       "stop": 2149.185,
       "target": 1973.8449999999998,
-      "message_id": 6755,
+      "message_id": 6918,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:25.170706+00:00",
+      "opened_at": "2026-10-06T06:54:27.951314+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2979,9 +2979,9 @@
       "entry": 2708.695,
       "stop": 1720.865,
       "target": 1405.396,
-      "message_id": 6756,
+      "message_id": 6919,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:26.435970+00:00",
+      "opened_at": "2026-10-06T06:54:28.733915+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -2993,9 +2993,9 @@
       "entry": 2708.695,
       "stop": 1713.645,
       "target": 1493.665,
-      "message_id": 6757,
+      "message_id": 6920,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:27.580839+00:00",
+      "opened_at": "2026-10-06T06:54:29.542975+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3007,9 +3007,9 @@
       "entry": 2708.695,
       "stop": 1603.655,
       "target": 1781.865,
-      "message_id": 6758,
+      "message_id": 6921,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:28.725492+00:00",
+      "opened_at": "2026-10-06T06:54:30.329849+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3021,9 +3021,9 @@
       "entry": 2708.695,
       "stop": 1510.975,
       "target": 1786.066,
-      "message_id": 6759,
+      "message_id": 6922,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:29.822999+00:00",
+      "opened_at": "2026-10-06T06:54:31.154968+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3035,9 +3035,9 @@
       "entry": 2708.695,
       "stop": 1547.52,
       "target": 1726.5100000000002,
-      "message_id": 6760,
+      "message_id": 6923,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:30.888058+00:00",
+      "opened_at": "2026-10-06T06:54:31.980382+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3049,9 +3049,9 @@
       "entry": 2708.695,
       "stop": 1832.33,
       "target": 1680.045,
-      "message_id": 6761,
+      "message_id": 6924,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:31.974919+00:00",
+      "opened_at": "2026-10-06T06:54:32.772765+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3063,9 +3063,9 @@
       "entry": 2708.695,
       "stop": 1729.545,
       "target": 1921.3849999999998,
-      "message_id": 6762,
+      "message_id": 6925,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:33.118416+00:00",
+      "opened_at": "2026-10-06T06:54:33.576240+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3077,9 +3077,9 @@
       "entry": 2708.695,
       "stop": 1832.33,
       "target": 1626.7600000000002,
-      "message_id": 6763,
+      "message_id": 6926,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:34.224977+00:00",
+      "opened_at": "2026-10-06T06:54:34.371434+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3091,9 +3091,9 @@
       "entry": 2708.695,
       "stop": 1712.455,
       "target": 1893.3049999999998,
-      "message_id": 6764,
+      "message_id": 6927,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:35.342617+00:00",
+      "opened_at": "2026-10-06T06:54:35.165270+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3105,9 +3105,9 @@
       "entry": 2708.695,
       "stop": 1945.705,
       "target": 1767.4050000000002,
-      "message_id": 6765,
+      "message_id": 6928,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:36.402718+00:00",
+      "opened_at": "2026-10-06T06:54:36.018698+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3119,9 +3119,9 @@
       "entry": 2708.695,
       "stop": 1928.335,
       "target": 1677.0949999999998,
-      "message_id": 6766,
+      "message_id": 6929,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:37.480369+00:00",
+      "opened_at": "2026-10-06T06:54:36.847747+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3133,9 +3133,9 @@
       "entry": 2708.695,
       "stop": 1842.305,
       "target": 2069.285,
-      "message_id": 6767,
+      "message_id": 6930,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:38.625178+00:00",
+      "opened_at": "2026-10-06T06:54:37.618867+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3147,9 +3147,9 @@
       "entry": 2708.695,
       "stop": 1847.005,
       "target": 1971.545,
-      "message_id": 6768,
+      "message_id": 6931,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:39.713324+00:00",
+      "opened_at": "2026-10-06T06:54:38.430357+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3161,9 +3161,9 @@
       "entry": 2708.695,
       "stop": 1850.265,
       "target": 2109.785,
-      "message_id": 6769,
+      "message_id": 6932,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:40.894220+00:00",
+      "opened_at": "2026-10-06T06:54:39.221130+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3175,9 +3175,9 @@
       "entry": 2708.695,
       "stop": 1857.425,
       "target": 2010.385,
-      "message_id": 6770,
+      "message_id": 6933,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:42.007579+00:00",
+      "opened_at": "2026-10-06T06:54:40.005066+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3189,9 +3189,9 @@
       "entry": 2708.695,
       "stop": 1936.125,
       "target": 1813.0849999999998,
-      "message_id": 6771,
+      "message_id": 6934,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:43.135347+00:00",
+      "opened_at": "2026-10-06T06:54:40.853860+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3203,9 +3203,9 @@
       "entry": 2708.695,
       "stop": 1821.235,
       "target": 1974.715,
-      "message_id": 6772,
+      "message_id": 6935,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:44.183056+00:00",
+      "opened_at": "2026-10-06T06:54:41.710104+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3217,9 +3217,9 @@
       "entry": 2708.695,
       "stop": 1828.245,
       "target": 2050.135,
-      "message_id": 6773,
+      "message_id": 6936,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:45.192868+00:00",
+      "opened_at": "2026-10-06T06:54:42.511788+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3231,9 +3231,9 @@
       "entry": 2708.695,
       "stop": 1939.19,
       "target": 1766.1019999999999,
-      "message_id": 6774,
+      "message_id": 6937,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:46.290398+00:00",
+      "opened_at": "2026-10-06T06:54:43.312537+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3245,9 +3245,9 @@
       "entry": 2708.695,
       "stop": 1852.646,
       "target": 1995.624,
-      "message_id": 6775,
+      "message_id": 6938,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:47.312167+00:00",
+      "opened_at": "2026-10-06T06:54:44.165413+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3259,9 +3259,9 @@
       "entry": 2708.695,
       "stop": 2548.105,
       "target": 2099.845,
-      "message_id": 6776,
+      "message_id": 6939,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:48.316729+00:00",
+      "opened_at": "2026-10-06T06:54:45.207642+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3273,9 +3273,9 @@
       "entry": 2708.695,
       "stop": 1936.795,
       "target": 2358.04,
-      "message_id": 6777,
+      "message_id": 6940,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:49.467886+00:00",
+      "opened_at": "2026-10-06T06:54:45.987198+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3287,9 +3287,9 @@
       "entry": 2708.695,
       "stop": 2167.095,
       "target": 1694.4750000000001,
-      "message_id": 6778,
+      "message_id": 6941,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:50.579355+00:00",
+      "opened_at": "2026-10-06T06:54:46.785266+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3301,9 +3301,9 @@
       "entry": 2708.695,
       "stop": 2272.9245,
       "target": 1875.7209999999995,
-      "message_id": 6779,
+      "message_id": 6942,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:51.596408+00:00",
+      "opened_at": "2026-10-06T06:54:47.590404+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3315,9 +3315,9 @@
       "entry": 2708.695,
       "stop": 2174.815,
       "target": 2682.4275,
-      "message_id": 6780,
+      "message_id": 6943,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:52.619499+00:00",
+      "opened_at": "2026-10-06T06:54:48.376398+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3329,9 +3329,9 @@
       "entry": 2708.695,
       "stop": 2414.315,
       "target": 2013.6900000000005,
-      "message_id": 6781,
+      "message_id": 6944,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:53.762903+00:00",
+      "opened_at": "2026-10-06T06:54:49.171122+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3343,9 +3343,9 @@
       "entry": 2708.695,
       "stop": 2463.655,
       "target": 1907.63,
-      "message_id": 6782,
+      "message_id": 6945,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:54.768378+00:00",
+      "opened_at": "2026-10-06T06:54:50.042903+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3357,9 +3357,9 @@
       "entry": 2708.695,
       "stop": 2251.405,
       "target": 2613.98,
-      "message_id": 6783,
+      "message_id": 6946,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:55.840532+00:00",
+      "opened_at": "2026-10-06T06:54:50.820635+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3371,9 +3371,9 @@
       "entry": 2708.695,
       "stop": 2422.225,
       "target": 1993.9849999999997,
-      "message_id": 6784,
+      "message_id": 6947,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:56.939315+00:00",
+      "opened_at": "2026-10-06T06:54:51.623551+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3385,9 +3385,9 @@
       "entry": 2708.695,
       "stop": 2403.215,
       "target": 2050.125,
-      "message_id": 6785,
+      "message_id": 6948,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:58.033616+00:00",
+      "opened_at": "2026-10-06T06:54:52.408316+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3399,9 +3399,9 @@
       "entry": 2708.695,
       "stop": 2219.235,
       "target": 2628.5,
-      "message_id": 6786,
+      "message_id": 6949,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:29:59.132312+00:00",
+      "opened_at": "2026-10-06T06:54:53.194295+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3413,9 +3413,9 @@
       "entry": 2708.695,
       "stop": 2422.4415,
       "target": 2064.637,
-      "message_id": 6787,
+      "message_id": 6950,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:00.147453+00:00",
+      "opened_at": "2026-10-06T06:54:54.055387+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3427,9 +3427,9 @@
       "entry": 2708.695,
       "stop": 2264.195,
       "target": 2540.7599999999993,
-      "message_id": 6788,
+      "message_id": 6951,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:01.240976+00:00",
+      "opened_at": "2026-10-06T06:54:54.852192+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3441,9 +3441,9 @@
       "entry": 2708.695,
       "stop": 2381.875,
       "target": 2126.66,
-      "message_id": 6789,
+      "message_id": 6952,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:02.286883+00:00",
+      "opened_at": "2026-10-06T06:54:55.639464+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3455,9 +3455,9 @@
       "entry": 2708.695,
       "stop": 2008.715,
       "target": 2433.7552499999997,
-      "message_id": 6790,
+      "message_id": 6953,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:03.283550+00:00",
+      "opened_at": "2026-10-06T06:54:56.446895+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3469,9 +3469,9 @@
       "entry": 2708.695,
       "stop": 1848.615,
       "target": 1442.595,
-      "message_id": 6791,
+      "message_id": 6954,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:04.389871+00:00",
+      "opened_at": "2026-10-06T06:54:57.279557+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3483,9 +3483,9 @@
       "entry": 2708.695,
       "stop": 1510.975,
       "target": 1833.3702500000004,
-      "message_id": 6792,
+      "message_id": 6955,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:05.545209+00:00",
+      "opened_at": "2026-10-06T06:54:58.090598+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3497,9 +3497,9 @@
       "entry": 2708.695,
       "stop": 1832.33,
       "target": 1558.3000000000004,
-      "message_id": 6793,
+      "message_id": 6956,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:06.975754+00:00",
+      "opened_at": "2026-10-06T06:54:58.915549+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3511,9 +3511,9 @@
       "entry": 2708.695,
       "stop": 1712.455,
       "target": 2026.251,
-      "message_id": 6794,
+      "message_id": 6957,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:08.042103+00:00",
+      "opened_at": "2026-10-06T06:54:59.719056+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3525,9 +3525,9 @@
       "entry": 2708.695,
       "stop": 1945.705,
       "target": 1624.9037500000004,
-      "message_id": 6795,
+      "message_id": 6958,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:09.140026+00:00",
+      "opened_at": "2026-10-06T06:55:00.512566+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3539,9 +3539,9 @@
       "entry": 2708.695,
       "stop": 1802.715,
       "target": 2153.0,
-      "message_id": 6796,
+      "message_id": 6959,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:10.209514+00:00",
+      "opened_at": "2026-10-06T06:55:01.314639+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3553,9 +3553,9 @@
       "entry": 2708.695,
       "stop": 1955.795,
       "target": 1627.0750000000003,
-      "message_id": 6797,
+      "message_id": 6960,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:11.322394+00:00",
+      "opened_at": "2026-10-06T06:55:02.150683+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3567,9 +3567,9 @@
       "entry": 2708.695,
       "stop": 1980.025,
       "target": 1608.6449999999998,
-      "message_id": 6798,
+      "message_id": 6961,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:12.452154+00:00",
+      "opened_at": "2026-10-06T06:55:03.106889+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3581,9 +3581,9 @@
       "entry": 2708.695,
       "stop": 1936.125,
       "target": 1722.1049999999996,
-      "message_id": 6799,
+      "message_id": 6962,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:13.468736+00:00",
+      "opened_at": "2026-10-06T06:55:03.873807+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3595,9 +3595,9 @@
       "entry": 2708.695,
       "stop": 1821.235,
       "target": 2070.5299999999997,
-      "message_id": 6800,
+      "message_id": 6963,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:14.641351+00:00",
+      "opened_at": "2026-10-06T06:55:04.694361+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3609,9 +3609,9 @@
       "entry": 2708.695,
       "stop": 1939.19,
       "target": 1667.3574999999996,
-      "message_id": 6801,
+      "message_id": 6964,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:15.661234+00:00",
+      "opened_at": "2026-10-06T06:55:05.471830+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3623,9 +3623,9 @@
       "entry": 1.61008,
       "stop": 1.61116,
       "target": 1.75627,
-      "message_id": 6804,
+      "message_id": 6967,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:22.859917+00:00",
+      "opened_at": "2026-10-06T06:55:10.250437+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3637,9 +3637,9 @@
       "entry": 177.185,
       "stop": 179.37,
       "target": 195.08799999999997,
-      "message_id": 6807,
+      "message_id": 6970,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:30.730939+00:00",
+      "opened_at": "2026-10-06T06:55:15.410411+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3651,9 +3651,9 @@
       "entry": 208.797,
       "stop": 207.24,
       "target": 231.988,
-      "message_id": 6817,
+      "message_id": 6980,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:50.662264+00:00",
+      "opened_at": "2026-10-06T06:55:28.031316+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3665,9 +3665,9 @@
       "entry": 2.36143,
       "stop": 2.34551,
       "target": 2.13471,
-      "message_id": 6818,
+      "message_id": 6981,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:53.076751+00:00",
+      "opened_at": "2026-10-06T06:55:29.912476+00:00",
       "bars_open": 0,
       "max_bars": 20
     },
@@ -3679,9 +3679,9 @@
       "entry": 2.36143,
       "stop": 2.35526,
       "target": 2.16253,
-      "message_id": 6820,
+      "message_id": 6983,
       "chat_id": "5952681562",
-      "opened_at": "2026-10-06T06:30:55.316366+00:00",
+      "opened_at": "2026-10-06T06:55:31.436363+00:00",
       "bars_open": 0,
       "max_bars": 20
     }
