@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-07T01:04:55.199297+00:00",
+  "last_run": "2026-10-07T01:27:43.480693+00:00",
   "alerted": {
     "frxGBPUSD|15m|Rounding Top|bearish|2026-10-02 20:30:00+00:00": "2026-10-02 20:30:00+00:00",
     "frxXAUUSD|15m|Double Bottom|bullish|2026-10-02 01:00:00+00:00": "2026-10-02 01:00:00+00:00",
@@ -509,7 +509,7 @@
       "message_id": 11860,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:03.939538+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Double Top|bearish|2026-06-03 00:00:00+00:00": {
@@ -523,7 +523,7 @@
       "message_id": 11861,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:05.152202+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Double Bottom|bullish|2026-06-09 00:00:00+00:00": {
@@ -537,7 +537,7 @@
       "message_id": 11862,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:06.338773+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Head & Shoulders|bearish|2026-03-10 00:00:00+00:00": {
@@ -551,7 +551,7 @@
       "message_id": 11864,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:09.313229+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Inverse Head & Shoulders|bullish|2026-04-29 00:00:00+00:00": {
@@ -565,7 +565,7 @@
       "message_id": 11865,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:10.667821+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Head & Shoulders|bearish|2026-05-06 00:00:00+00:00": {
@@ -579,7 +579,7 @@
       "message_id": 11866,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:12.027242+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_AS51|1D|Inverse Head & Shoulders|bullish|2026-06-09 00:00:00+00:00": {
@@ -593,7 +593,7 @@
       "message_id": 11867,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:13.346868+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Double Bottom|bullish|2026-05-18 00:00:00+00:00": {
@@ -607,7 +607,7 @@
       "message_id": 11871,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:20.199863+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Double Bottom|bullish|2026-06-10 00:00:00+00:00": {
@@ -621,7 +621,7 @@
       "message_id": 11873,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:22.236053+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Inverse Head & Shoulders|bullish|2026-05-05 00:00:00+00:00": {
@@ -635,7 +635,7 @@
       "message_id": 11874,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:23.457077+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Inverse Head & Shoulders|bullish|2026-06-10 00:00:00+00:00": {
@@ -649,7 +649,7 @@
       "message_id": 11876,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:25.611062+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxAUDJPY|1D|Double Top|bearish|2026-06-02 00:00:00+00:00": {
@@ -663,7 +663,7 @@
       "message_id": 11905,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:00.537890+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxAUDJPY|1D|Double Top|bearish|2026-07-27 00:00:00+00:00": {
@@ -677,7 +677,7 @@
       "message_id": 11906,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:01.726907+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxAUDJPY|1D|Head & Shoulders|bearish|2026-07-27 00:00:00+00:00": {
@@ -691,7 +691,7 @@
       "message_id": 11907,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:03.109054+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURUSD|1D|Double Top|bearish|2026-08-21 00:00:00+00:00": {
@@ -705,7 +705,7 @@
       "message_id": 11909,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:08.793661+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxGBPUSD|1D|Double Bottom|bullish|2026-06-24 00:00:00+00:00": {
@@ -719,7 +719,7 @@
       "message_id": 11912,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:13.786445+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxGBPUSD|1D|Double Top|bearish|2026-08-21 00:00:00+00:00": {
@@ -733,7 +733,7 @@
       "message_id": 11913,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:15.091305+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Top|bearish|2026-04-22 00:00:00+00:00": {
@@ -747,7 +747,7 @@
       "message_id": 11917,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:21.310964+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Top|bearish|2026-07-21 00:00:00+00:00": {
@@ -761,7 +761,7 @@
       "message_id": 11921,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:26.518400+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxUSDJPY|1D|Double Top|bearish|2026-02-05 00:00:00+00:00": {
@@ -775,7 +775,7 @@
       "message_id": 11933,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:46.205590+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxUSDJPY|1D|Double Bottom|bullish|2026-02-12 00:00:00+00:00": {
@@ -789,7 +789,7 @@
       "message_id": 11934,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:47.247684+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxUSDJPY|1D|Double Bottom|bullish|2026-08-03 00:00:00+00:00": {
@@ -803,7 +803,7 @@
       "message_id": 11935,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:48.374382+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-05-08 00:00:00+00:00": {
@@ -817,7 +817,7 @@
       "message_id": 11948,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:04.176702+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURAUD|1D|Double Top|bearish|2026-06-30 00:00:00+00:00": {
@@ -831,7 +831,7 @@
       "message_id": 12078,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:24.854794+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURJPY|1D|Double Top|bearish|2026-04-17 00:00:00+00:00": {
@@ -845,7 +845,7 @@
       "message_id": 12079,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:29.909726+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURJPY|1D|Double Top|bearish|2026-08-21 00:00:00+00:00": {
@@ -859,7 +859,7 @@
       "message_id": 12081,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:32.165310+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURJPY|1D|Head & Shoulders|bearish|2026-08-21 00:00:00+00:00": {
@@ -873,7 +873,7 @@
       "message_id": 12082,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:33.309600+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURNZD|1D|Double Top|bearish|2026-04-07 00:00:00+00:00": {
@@ -887,7 +887,7 @@
       "message_id": 12083,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:36.988614+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURNZD|1D|Double Bottom|bullish|2026-05-29 00:00:00+00:00": {
@@ -901,7 +901,7 @@
       "message_id": 12084,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:38.108843+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURNZD|1D|Double Top|bearish|2026-06-29 00:00:00+00:00": {
@@ -915,7 +915,7 @@
       "message_id": 12085,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:39.287555+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURNZD|1D|Double Bottom|bullish|2026-07-21 00:00:00+00:00": {
@@ -929,7 +929,7 @@
       "message_id": 12086,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:40.214424+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxGBPAUD|1D|Double Bottom|bullish|2026-05-14 00:00:00+00:00": {
@@ -943,7 +943,7 @@
       "message_id": 12088,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:43.879753+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxGBPAUD|1D|Double Top|bearish|2026-07-02 00:00:00+00:00": {
@@ -957,7 +957,7 @@
       "message_id": 12089,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:44.951895+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxGBPNZD|1D|Double Bottom|bullish|2026-05-29 00:00:00+00:00": {
@@ -971,7 +971,7 @@
       "message_id": 12092,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:54.263146+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDUSD|1D|Double Top|bearish|2026-08-21 00:00:00+00:00": {
@@ -985,7 +985,7 @@
       "message_id": 11927,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:35.329826+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-06-09 00:00:00+00:00": {
@@ -999,7 +999,7 @@
       "message_id": 11888,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:39.782056+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-06-10 00:00:00+00:00": {
@@ -1013,7 +1013,7 @@
       "message_id": 11889,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:40.847919+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-07-08 00:00:00+00:00": {
@@ -1027,7 +1027,7 @@
       "message_id": 11893,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:44.899490+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Inverse Head & Shoulders|bullish|2026-06-10 00:00:00+00:00": {
@@ -1041,7 +1041,7 @@
       "message_id": 11899,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:51.793124+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Inverse Head & Shoulders|bullish|2026-08-04 00:00:00+00:00": {
@@ -1055,50 +1055,8 @@
       "message_id": 11902,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:55.455837+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
-    },
-    "frxXAUUSD|15m|Double Top|bearish|2026-10-05 08:15:00+00:00": {
-      "symbol": "frxXAUUSD",
-      "timeframe": "15m",
-      "pattern": "Double Top",
-      "direction": "bearish",
-      "entry": 4136.66,
-      "stop": 4225.31,
-      "target": 4024.8499999999995,
-      "message_id": 3997,
-      "chat_id": "5952681562",
-      "opened_at": "2026-10-05T15:53:47.139333+00:00",
-      "bars_open": 60,
-      "max_bars": 60
-    },
-    "frxXAUUSD|15m|Head & Shoulders|bearish|2026-10-05 08:15:00+00:00": {
-      "symbol": "frxXAUUSD",
-      "timeframe": "15m",
-      "pattern": "Head & Shoulders",
-      "direction": "bearish",
-      "entry": 4136.66,
-      "stop": 4225.31,
-      "target": 3947.2949999999983,
-      "message_id": 3998,
-      "chat_id": "5952681562",
-      "opened_at": "2026-10-05T15:53:48.245259+00:00",
-      "bars_open": 60,
-      "max_bars": 60
-    },
-    "OTC_FTSE|15m|Double Top|bearish|2026-10-01 12:30:00+00:00": {
-      "symbol": "OTC_FTSE",
-      "timeframe": "15m",
-      "pattern": "Double Top",
-      "direction": "bearish",
-      "entry": 10502.7,
-      "stop": 10691.2,
-      "target": 10069.599999999999,
-      "message_id": 4002,
-      "chat_id": "5952681562",
-      "opened_at": "2026-10-05T15:54:14.130978+00:00",
-      "bars_open": 60,
-      "max_bars": 60
     },
     "frxXAUUSD|1H|Head & Shoulders|bearish|2026-09-30 12:00:00+00:00": {
       "symbol": "frxXAUUSD",
@@ -1111,7 +1069,7 @@
       "message_id": 7799,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T09:18:30.796638+00:00",
-      "bars_open": 31,
+      "bars_open": 32,
       "max_bars": 40
     },
     "frxXAGUSD|1H|Double Bottom|bullish|2026-10-06 06:00:00+00:00": {
@@ -1125,7 +1083,7 @@
       "message_id": 7800,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T09:18:33.688751+00:00",
-      "bars_open": 31,
+      "bars_open": 32,
       "max_bars": 40
     },
     "frxXAUUSD|15m|Double Bottom|bullish|2026-10-06 02:30:00+00:00": {
@@ -1139,7 +1097,7 @@
       "message_id": 7982,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T09:51:41.746198+00:00",
-      "bars_open": 30,
+      "bars_open": 31,
       "max_bars": 60
     },
     "cryBTCUSD|15m|Double Bottom|bullish|2026-10-05 16:15:00+00:00": {
@@ -1153,7 +1111,7 @@
       "message_id": 7984,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T09:51:48.158191+00:00",
-      "bars_open": 30,
+      "bars_open": 31,
       "max_bars": 60
     },
     "cryBTCUSD|15m|Double Top|bearish|2026-10-06 01:00:00+00:00": {
@@ -1167,7 +1125,7 @@
       "message_id": 7985,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T09:51:49.475571+00:00",
-      "bars_open": 30,
+      "bars_open": 31,
       "max_bars": 60
     },
     "cryBTCUSD|15m|Double Bottom|bullish|2026-10-06 06:15:00+00:00": {
@@ -1181,7 +1139,7 @@
       "message_id": 7986,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T09:51:50.638707+00:00",
-      "bars_open": 30,
+      "bars_open": 31,
       "max_bars": 60
     },
     "cryBTCUSD|15m|Inverse Head & Shoulders|bullish|2026-10-06 06:15:00+00:00": {
@@ -1195,7 +1153,7 @@
       "message_id": 7987,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T09:51:51.903772+00:00",
-      "bars_open": 30,
+      "bars_open": 31,
       "max_bars": 60
     },
     "cryETHUSD|15m|Double Bottom|bullish|2026-10-05 16:15:00+00:00": {
@@ -1209,7 +1167,7 @@
       "message_id": 8396,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T10:52:11.468179+00:00",
-      "bars_open": 28,
+      "bars_open": 29,
       "max_bars": 60
     },
     "cryETHUSD|15m|Double Top|bearish|2026-10-06 01:00:00+00:00": {
@@ -1223,7 +1181,7 @@
       "message_id": 8397,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T10:52:12.536940+00:00",
-      "bars_open": 28,
+      "bars_open": 29,
       "max_bars": 60
     },
     "cryETHUSD|15m|Double Bottom|bullish|2026-10-06 06:00:00+00:00": {
@@ -1237,7 +1195,7 @@
       "message_id": 8398,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T10:52:13.740599+00:00",
-      "bars_open": 28,
+      "bars_open": 29,
       "max_bars": 60
     },
     "cryETHUSD|15m|Inverse Head & Shoulders|bullish|2026-10-06 06:00:00+00:00": {
@@ -1251,7 +1209,7 @@
       "message_id": 8399,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T10:52:14.891390+00:00",
-      "bars_open": 28,
+      "bars_open": 29,
       "max_bars": 60
     },
     "frxXAUUSD|1H|Double Bottom|bullish|2026-10-06 02:00:00+00:00": {
@@ -1265,7 +1223,7 @@
       "message_id": 8823,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T13:22:36.996529+00:00",
-      "bars_open": 23,
+      "bars_open": 24,
       "max_bars": 40
     },
     "cryBTCUSD|1H|Double Bottom|bullish|2026-10-05 16:00:00+00:00": {
@@ -1279,7 +1237,7 @@
       "message_id": 8825,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T13:22:45.875624+00:00",
-      "bars_open": 23,
+      "bars_open": 24,
       "max_bars": 40
     },
     "OTC_NDX|15m|Double Bottom|bullish|2026-10-05 10:30:00+00:00": {
@@ -1293,7 +1251,7 @@
       "message_id": 9136,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T13:51:28.024656+00:00",
-      "bars_open": 22,
+      "bars_open": 23,
       "max_bars": 60
     },
     "OTC_DJI|15m|Double Bottom|bullish|2026-10-05 13:45:00+00:00": {
@@ -1307,7 +1265,7 @@
       "message_id": 9172,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T14:49:30.766450+00:00",
-      "bars_open": 20,
+      "bars_open": 21,
       "max_bars": 60
     },
     "OTC_DJI|15m|Inverse Head & Shoulders|bullish|2026-10-05 13:45:00+00:00": {
@@ -1321,7 +1279,7 @@
       "message_id": 9173,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T14:49:32.190680+00:00",
-      "bars_open": 20,
+      "bars_open": 21,
       "max_bars": 60
     },
     "frxXAGUSD|1H|Double Top|bearish|2026-10-06 12:00:00+00:00": {
@@ -1335,7 +1293,7 @@
       "message_id": 9607,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T15:29:44.449116+00:00",
-      "bars_open": 19,
+      "bars_open": 20,
       "max_bars": 40
     },
     "frxXAGUSD|1H|Head & Shoulders|bearish|2026-10-06 12:00:00+00:00": {
@@ -1349,7 +1307,7 @@
       "message_id": 9608,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T15:29:45.879557+00:00",
-      "bars_open": 19,
+      "bars_open": 20,
       "max_bars": 40
     },
     "OTC_AS51|1D|Double Bottom|bullish|2026-02-06 00:00:00+00:00": {
@@ -1363,7 +1321,7 @@
       "message_id": 11859,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:02.699415+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_DJI|1D|Double Bottom|bullish|2026-03-30 00:00:00+00:00": {
@@ -1377,7 +1335,7 @@
       "message_id": 11868,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:15.731825+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Double Bottom|bullish|2026-03-23 00:00:00+00:00": {
@@ -1391,7 +1349,7 @@
       "message_id": 11870,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:19.155686+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Double Top|bearish|2026-05-26 00:00:00+00:00": {
@@ -1405,7 +1363,7 @@
       "message_id": 11872,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:21.280413+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_FTSE|1D|Head & Shoulders|bearish|2026-05-06 00:00:00+00:00": {
@@ -1419,7 +1377,7 @@
       "message_id": 11875,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:24.526255+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-01-21 00:00:00+00:00": {
@@ -1433,7 +1391,7 @@
       "message_id": 11878,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:29.781985+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-01-28 00:00:00+00:00": {
@@ -1447,7 +1405,7 @@
       "message_id": 11879,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:30.823872+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-02-03 00:00:00+00:00": {
@@ -1461,7 +1419,7 @@
       "message_id": 11880,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:31.841842+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|15m|Double Top|bearish|2026-10-06 15:00:00+00:00": {
@@ -1475,7 +1433,7 @@
       "message_id": 10256,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T16:19:28.726093+00:00",
-      "bars_open": 17,
+      "bars_open": 18,
       "max_bars": 60
     },
     "cryETHUSD|15m|Double Top|bearish|2026-10-06 15:15:00+00:00": {
@@ -1489,7 +1447,7 @@
       "message_id": 10404,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T17:49:22.805141+00:00",
-      "bars_open": 14,
+      "bars_open": 15,
       "max_bars": 60
     },
     "OTC_NDX|1D|Double Top|bearish|2026-02-03 00:00:00+00:00": {
@@ -1503,7 +1461,7 @@
       "message_id": 11881,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:32.766718+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-02-17 00:00:00+00:00": {
@@ -1517,7 +1475,7 @@
       "message_id": 11882,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:33.809534+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-02-26 00:00:00+00:00": {
@@ -1531,7 +1489,7 @@
       "message_id": 11883,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:34.753780+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-03-03 00:00:00+00:00": {
@@ -1545,7 +1503,7 @@
       "message_id": 11884,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:35.697706+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-03-04 00:00:00+00:00": {
@@ -1559,7 +1517,7 @@
       "message_id": 11885,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:36.748040+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-03-09 00:00:00+00:00": {
@@ -1573,7 +1531,7 @@
       "message_id": 11886,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:37.802782+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-03-10 00:00:00+00:00": {
@@ -1587,7 +1545,7 @@
       "message_id": 11887,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:38.836658+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-06-22 00:00:00+00:00": {
@@ -1601,7 +1559,7 @@
       "message_id": 11890,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:41.845422+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Bottom|bullish|2026-06-26 00:00:00+00:00": {
@@ -1615,7 +1573,7 @@
       "message_id": 11891,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:42.807305+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-06-30 00:00:00+00:00": {
@@ -1629,7 +1587,7 @@
       "message_id": 11892,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:43.848945+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Double Top|bearish|2026-08-17 00:00:00+00:00": {
@@ -1643,7 +1601,7 @@
       "message_id": 11894,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:45.937237+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Inverse Head & Shoulders|bullish|2026-02-03 00:00:00+00:00": {
@@ -1657,7 +1615,7 @@
       "message_id": 11895,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:47.029372+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Head & Shoulders|bearish|2026-02-03 00:00:00+00:00": {
@@ -1671,7 +1629,7 @@
       "message_id": 11896,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:48.265382+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Head & Shoulders|bearish|2026-03-23 00:00:00+00:00": {
@@ -1685,7 +1643,7 @@
       "message_id": 11897,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:49.420445+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1H|Inverse Head & Shoulders|bullish|2026-09-29 16:00:00+00:00": {
@@ -1699,7 +1657,7 @@
       "message_id": 11400,
       "chat_id": "5952681562",
       "opened_at": "2026-10-06T22:46:53.493404+00:00",
-      "bars_open": 4,
+      "bars_open": 5,
       "max_bars": 40
     },
     "frxEURAUD|1D|Double Bottom|bullish|2026-05-13 00:00:00+00:00": {
@@ -1713,7 +1671,7 @@
       "message_id": 12077,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:23.657253+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURJPY|1D|Double Bottom|bullish|2026-08-03 00:00:00+00:00": {
@@ -1727,7 +1685,7 @@
       "message_id": 12080,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:30.975924+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1H|Double Top|bearish|2026-10-06 15:00:00+00:00": {
@@ -1741,7 +1699,7 @@
       "message_id": 11857,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T00:59:39.073339+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 40
     },
     "OTC_AS51|1D|Double Bottom|bullish|2026-10-01 00:00:00+00:00": {
@@ -1755,7 +1713,7 @@
       "message_id": 11863,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:08.061467+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Head & Shoulders|bearish|2026-06-09 00:00:00+00:00": {
@@ -1769,7 +1727,7 @@
       "message_id": 11898,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:50.572877+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Head & Shoulders|bearish|2026-06-22 00:00:00+00:00": {
@@ -1783,7 +1741,7 @@
       "message_id": 11900,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:53.017474+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "OTC_NDX|1D|Head & Shoulders|bearish|2026-07-15 00:00:00+00:00": {
@@ -1797,7 +1755,7 @@
       "message_id": 11901,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:00:54.109968+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxEURUSD|1D|Double Bottom|bullish|2026-06-24 00:00:00+00:00": {
@@ -1811,7 +1769,7 @@
       "message_id": 11908,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:07.482991+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Bottom|bullish|2026-03-31 00:00:00+00:00": {
@@ -1825,7 +1783,7 @@
       "message_id": 11916,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:20.049051+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Bottom|bullish|2026-04-30 00:00:00+00:00": {
@@ -1839,7 +1797,7 @@
       "message_id": 11918,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:22.639269+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Top|bearish|2026-05-29 00:00:00+00:00": {
@@ -1853,7 +1811,7 @@
       "message_id": 11919,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:23.980637+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Bottom|bullish|2026-06-26 00:00:00+00:00": {
@@ -1867,7 +1825,7 @@
       "message_id": 11920,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:25.328535+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Double Bottom|bullish|2026-08-03 00:00:00+00:00": {
@@ -1881,7 +1839,7 @@
       "message_id": 11922,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:27.726965+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDJPY|1D|Inverse Head & Shoulders|bullish|2026-08-03 00:00:00+00:00": {
@@ -1895,7 +1853,7 @@
       "message_id": 11923,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:28.953982+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDUSD|1D|Double Bottom|bullish|2026-04-03 00:00:00+00:00": {
@@ -1909,7 +1867,7 @@
       "message_id": 11925,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:32.874056+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxNZDUSD|1D|Double Bottom|bullish|2026-06-26 00:00:00+00:00": {
@@ -1923,7 +1881,7 @@
       "message_id": 11926,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:34.155673+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxUSDCHF|1D|Double Top|bearish|2026-03-31 00:00:00+00:00": {
@@ -1937,7 +1895,7 @@
       "message_id": 11931,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:42.699032+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-03-25 00:00:00+00:00": {
@@ -1951,7 +1909,7 @@
       "message_id": 11936,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:51.959871+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-03-29 00:00:00+00:00": {
@@ -1965,7 +1923,7 @@
       "message_id": 11937,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:53.015291+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-03-30 00:00:00+00:00": {
@@ -1979,7 +1937,7 @@
       "message_id": 11938,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:54.088654+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-03-30 00:00:00+00:00": {
@@ -1993,7 +1951,7 @@
       "message_id": 11939,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:55.041853+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-04-02 00:00:00+00:00": {
@@ -2007,7 +1965,7 @@
       "message_id": 11940,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:56.054338+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-04-09 00:00:00+00:00": {
@@ -2021,7 +1979,7 @@
       "message_id": 11941,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:57.016913+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-04-11 00:00:00+00:00": {
@@ -2035,7 +1993,7 @@
       "message_id": 11942,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:58.048069+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-04-12 00:00:00+00:00": {
@@ -2049,7 +2007,7 @@
       "message_id": 11943,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:01:58.979406+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-04-18 00:00:00+00:00": {
@@ -2063,7 +2021,7 @@
       "message_id": 11944,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:00.005035+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-04-20 00:00:00+00:00": {
@@ -2077,7 +2035,7 @@
       "message_id": 11945,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:01.231911+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-04-27 00:00:00+00:00": {
@@ -2091,7 +2049,7 @@
       "message_id": 11946,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:02.163607+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-04-30 00:00:00+00:00": {
@@ -2105,7 +2063,7 @@
       "message_id": 11947,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:03.209313+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-05-10 00:00:00+00:00": {
@@ -2119,7 +2077,7 @@
       "message_id": 11949,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:05.279920+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-05-13 00:00:00+00:00": {
@@ -2133,7 +2091,7 @@
       "message_id": 11950,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:06.211527+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-05-14 00:00:00+00:00": {
@@ -2147,7 +2105,7 @@
       "message_id": 11951,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:07.271954+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-05-15 00:00:00+00:00": {
@@ -2161,7 +2119,7 @@
       "message_id": 11952,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:08.345328+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-05-15 00:00:00+00:00": {
@@ -2175,7 +2133,7 @@
       "message_id": 11953,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:09.298362+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-05-23 00:00:00+00:00": {
@@ -2189,7 +2147,7 @@
       "message_id": 11954,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:10.332951+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-05-26 00:00:00+00:00": {
@@ -2203,7 +2161,7 @@
       "message_id": 11955,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:11.287022+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-06-06 00:00:00+00:00": {
@@ -2217,7 +2175,7 @@
       "message_id": 11956,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:12.319210+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-06-07 00:00:00+00:00": {
@@ -2231,7 +2189,7 @@
       "message_id": 11957,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:13.323379+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-06-11 00:00:00+00:00": {
@@ -2245,7 +2203,7 @@
       "message_id": 11958,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:14.358226+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-06-11 00:00:00+00:00": {
@@ -2259,7 +2217,7 @@
       "message_id": 11959,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:15.414658+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-06-19 00:00:00+00:00": {
@@ -2273,7 +2231,7 @@
       "message_id": 11960,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:16.353565+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-06-22 00:00:00+00:00": {
@@ -2287,7 +2245,7 @@
       "message_id": 11961,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:17.334028+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-06-23 00:00:00+00:00": {
@@ -2301,7 +2259,7 @@
       "message_id": 11962,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:18.284584+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-06-26 00:00:00+00:00": {
@@ -2315,7 +2273,7 @@
       "message_id": 11963,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:19.353591+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-06-29 00:00:00+00:00": {
@@ -2329,7 +2287,7 @@
       "message_id": 11964,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:20.284825+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-06-29 00:00:00+00:00": {
@@ -2343,7 +2301,7 @@
       "message_id": 11965,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:21.323138+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-07-07 00:00:00+00:00": {
@@ -2357,7 +2315,7 @@
       "message_id": 11966,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:22.430772+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-07-08 00:00:00+00:00": {
@@ -2371,7 +2329,7 @@
       "message_id": 11967,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:23.375144+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-07-10 00:00:00+00:00": {
@@ -2385,7 +2343,7 @@
       "message_id": 11968,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:24.398303+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-07-13 00:00:00+00:00": {
@@ -2399,7 +2357,7 @@
       "message_id": 11969,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:25.353976+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-07-15 00:00:00+00:00": {
@@ -2413,7 +2371,7 @@
       "message_id": 11970,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:26.398381+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-07-17 00:00:00+00:00": {
@@ -2427,7 +2385,7 @@
       "message_id": 11971,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:27.359877+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-07-20 00:00:00+00:00": {
@@ -2441,7 +2399,7 @@
       "message_id": 11972,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:28.432178+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-07-24 00:00:00+00:00": {
@@ -2455,7 +2413,7 @@
       "message_id": 11973,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:29.492383+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-07-27 00:00:00+00:00": {
@@ -2469,7 +2427,7 @@
       "message_id": 11974,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:30.461403+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-07-27 00:00:00+00:00": {
@@ -2483,7 +2441,7 @@
       "message_id": 11975,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:31.501617+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-07-28 00:00:00+00:00": {
@@ -2497,7 +2455,7 @@
       "message_id": 11976,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:33.020185+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-07-31 00:00:00+00:00": {
@@ -2511,7 +2469,7 @@
       "message_id": 11977,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:34.042252+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-08-01 00:00:00+00:00": {
@@ -2525,7 +2483,7 @@
       "message_id": 11978,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:35.064403+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-08-09 00:00:00+00:00": {
@@ -2539,7 +2497,7 @@
       "message_id": 11979,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:35.995119+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Bottom|bullish|2026-08-14 00:00:00+00:00": {
@@ -2553,7 +2511,7 @@
       "message_id": 11980,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:37.036531+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Double Top|bearish|2026-08-22 00:00:00+00:00": {
@@ -2567,7 +2525,7 @@
       "message_id": 11981,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:37.963679+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Head & Shoulders|bearish|2026-03-27 00:00:00+00:00": {
@@ -2581,7 +2539,7 @@
       "message_id": 11982,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:38.979311+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Inverse Head & Shoulders|bullish|2026-03-30 00:00:00+00:00": {
@@ -2595,7 +2553,7 @@
       "message_id": 11983,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:39.982716+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Inverse Head & Shoulders|bullish|2026-04-07 00:00:00+00:00": {
@@ -2609,7 +2567,7 @@
       "message_id": 11984,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:41.010720+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Head & Shoulders|bearish|2026-04-18 00:00:00+00:00": {
@@ -2623,7 +2581,7 @@
       "message_id": 11985,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:42.039175+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Inverse Head & Shoulders|bullish|2026-04-22 00:00:00+00:00": {
@@ -2637,7 +2595,7 @@
       "message_id": 11986,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:42.955875+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Head & Shoulders|bearish|2026-04-29 00:00:00+00:00": {
@@ -2651,7 +2609,7 @@
       "message_id": 11987,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:44.004471+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Inverse Head & Shoulders|bullish|2026-04-30 00:00:00+00:00": {
@@ -2665,7 +2623,7 @@
       "message_id": 11988,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:44.928829+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Head & Shoulders|bearish|2026-05-10 00:00:00+00:00": {
@@ -2679,7 +2637,7 @@
       "message_id": 11989,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:45.940286+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Head & Shoulders|bearish|2026-06-01 00:00:00+00:00": {
@@ -2693,7 +2651,7 @@
       "message_id": 11990,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:46.890600+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Head & Shoulders|bearish|2026-06-11 00:00:00+00:00": {
@@ -2707,7 +2665,7 @@
       "message_id": 11991,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:47.918965+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Head & Shoulders|bearish|2026-06-18 00:00:00+00:00": {
@@ -2721,7 +2679,7 @@
       "message_id": 11992,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:48.995664+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Inverse Head & Shoulders|bullish|2026-06-19 00:00:00+00:00": {
@@ -2735,7 +2693,7 @@
       "message_id": 11993,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:49.924022+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Head & Shoulders|bearish|2026-06-23 00:00:00+00:00": {
@@ -2749,7 +2707,7 @@
       "message_id": 11994,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:50.971655+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Inverse Head & Shoulders|bullish|2026-06-26 00:00:00+00:00": {
@@ -2763,7 +2721,7 @@
       "message_id": 11995,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:51.907590+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Inverse Head & Shoulders|bullish|2026-07-02 00:00:00+00:00": {
@@ -2777,7 +2735,7 @@
       "message_id": 11996,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:52.924502+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Head & Shoulders|bearish|2026-07-07 00:00:00+00:00": {
@@ -2791,7 +2749,7 @@
       "message_id": 11997,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:53.871447+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Head & Shoulders|bearish|2026-07-24 00:00:00+00:00": {
@@ -2805,7 +2763,7 @@
       "message_id": 11998,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:54.895755+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryBTCUSD|1D|Inverse Head & Shoulders|bullish|2026-08-14 00:00:00+00:00": {
@@ -2819,7 +2777,7 @@
       "message_id": 11999,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:02:55.922900+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-03-25 00:00:00+00:00": {
@@ -2833,7 +2791,7 @@
       "message_id": 12002,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:00.373949+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-03-30 00:00:00+00:00": {
@@ -2847,7 +2805,7 @@
       "message_id": 12003,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:01.352249+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-04-02 00:00:00+00:00": {
@@ -2861,7 +2819,7 @@
       "message_id": 12004,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:02.402705+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-04-05 00:00:00+00:00": {
@@ -2875,7 +2833,7 @@
       "message_id": 12005,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:03.456218+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-04-06 00:00:00+00:00": {
@@ -2889,7 +2847,7 @@
       "message_id": 12006,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:04.583069+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-04-10 00:00:00+00:00": {
@@ -2903,7 +2861,7 @@
       "message_id": 12007,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:05.558585+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-04-10 00:00:00+00:00": {
@@ -2917,7 +2875,7 @@
       "message_id": 12008,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:06.618953+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-04-13 00:00:00+00:00": {
@@ -2931,7 +2889,7 @@
       "message_id": 12009,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:07.589618+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-04-15 00:00:00+00:00": {
@@ -2945,7 +2903,7 @@
       "message_id": 12010,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:08.768296+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-04-16 00:00:00+00:00": {
@@ -2959,7 +2917,7 @@
       "message_id": 12011,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:09.818917+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-04-19 00:00:00+00:00": {
@@ -2973,7 +2931,7 @@
       "message_id": 12012,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:11.007645+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-04-20 00:00:00+00:00": {
@@ -2987,7 +2945,7 @@
       "message_id": 12013,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:12.090829+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-04-23 00:00:00+00:00": {
@@ -3001,7 +2959,7 @@
       "message_id": 12014,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:13.060362+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-04-24 00:00:00+00:00": {
@@ -3015,7 +2973,7 @@
       "message_id": 12015,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:14.137402+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-04-27 00:00:00+00:00": {
@@ -3029,7 +2987,7 @@
       "message_id": 12016,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:15.112263+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-04-30 00:00:00+00:00": {
@@ -3043,7 +3001,7 @@
       "message_id": 12017,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:16.251429+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-05-06 00:00:00+00:00": {
@@ -3057,7 +3015,7 @@
       "message_id": 12018,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:17.327808+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-05-07 00:00:00+00:00": {
@@ -3071,7 +3029,7 @@
       "message_id": 12019,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:18.489181+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-05-08 00:00:00+00:00": {
@@ -3085,7 +3043,7 @@
       "message_id": 12020,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:19.577387+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-05-10 00:00:00+00:00": {
@@ -3099,7 +3057,7 @@
       "message_id": 12021,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:20.560860+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-05-11 00:00:00+00:00": {
@@ -3113,7 +3071,7 @@
       "message_id": 12022,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:21.609198+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-05-15 00:00:00+00:00": {
@@ -3127,7 +3085,7 @@
       "message_id": 12023,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:22.614827+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-05-15 00:00:00+00:00": {
@@ -3141,7 +3099,7 @@
       "message_id": 12024,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:23.677673+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-05-18 00:00:00+00:00": {
@@ -3155,7 +3113,7 @@
       "message_id": 12025,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:24.738836+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-05-23 00:00:00+00:00": {
@@ -3169,7 +3127,7 @@
       "message_id": 12026,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:25.807252+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-05-25 00:00:00+00:00": {
@@ -3183,7 +3141,7 @@
       "message_id": 12027,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:26.908028+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-06-08 00:00:00+00:00": {
@@ -3197,7 +3155,7 @@
       "message_id": 12028,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:27.868270+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-06-11 00:00:00+00:00": {
@@ -3211,7 +3169,7 @@
       "message_id": 12029,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:28.968873+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-06-11 00:00:00+00:00": {
@@ -3225,7 +3183,7 @@
       "message_id": 12030,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:29.933870+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-06-26 00:00:00+00:00": {
@@ -3239,7 +3197,7 @@
       "message_id": 12031,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:31.026638+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-06-30 00:00:00+00:00": {
@@ -3253,7 +3211,7 @@
       "message_id": 12032,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:32.085610+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-07-06 00:00:00+00:00": {
@@ -3267,7 +3225,7 @@
       "message_id": 12033,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:33.148635+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-07-06 00:00:00+00:00": {
@@ -3281,7 +3239,7 @@
       "message_id": 12034,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:34.277874+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-07-07 00:00:00+00:00": {
@@ -3295,7 +3253,7 @@
       "message_id": 12035,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:35.236026+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-07-08 00:00:00+00:00": {
@@ -3309,7 +3267,7 @@
       "message_id": 12036,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:36.284736+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-07-16 00:00:00+00:00": {
@@ -3323,7 +3281,7 @@
       "message_id": 12037,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:37.242794+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-07-20 00:00:00+00:00": {
@@ -3337,7 +3295,7 @@
       "message_id": 12038,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:38.294538+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-07-24 00:00:00+00:00": {
@@ -3351,7 +3309,7 @@
       "message_id": 12039,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:39.471492+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-07-25 00:00:00+00:00": {
@@ -3365,7 +3323,7 @@
       "message_id": 12040,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:40.577462+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-07-28 00:00:00+00:00": {
@@ -3379,7 +3337,7 @@
       "message_id": 12041,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:41.650340+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-07-29 00:00:00+00:00": {
@@ -3393,7 +3351,7 @@
       "message_id": 12042,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:42.600899+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-07-30 00:00:00+00:00": {
@@ -3407,7 +3365,7 @@
       "message_id": 12043,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:43.646772+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-08-03 00:00:00+00:00": {
@@ -3421,7 +3379,7 @@
       "message_id": 12044,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:44.600539+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-08-11 00:00:00+00:00": {
@@ -3435,7 +3393,7 @@
       "message_id": 12045,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:45.701441+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-08-12 00:00:00+00:00": {
@@ -3449,7 +3407,7 @@
       "message_id": 12046,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:46.760320+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-08-13 00:00:00+00:00": {
@@ -3463,7 +3421,7 @@
       "message_id": 12047,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:47.832865+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Top|bearish|2026-08-22 00:00:00+00:00": {
@@ -3477,7 +3435,7 @@
       "message_id": 12048,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:48.901706+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Double Bottom|bullish|2026-08-23 00:00:00+00:00": {
@@ -3491,7 +3449,7 @@
       "message_id": 12049,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:49.984751+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Inverse Head & Shoulders|bullish|2026-03-30 00:00:00+00:00": {
@@ -3505,7 +3463,7 @@
       "message_id": 12050,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:51.042670+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-04-02 00:00:00+00:00": {
@@ -3519,7 +3477,7 @@
       "message_id": 12051,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:52.060171+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-04-10 00:00:00+00:00": {
@@ -3533,7 +3491,7 @@
       "message_id": 12052,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:53.155881+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Inverse Head & Shoulders|bullish|2026-04-14 00:00:00+00:00": {
@@ -3547,7 +3505,7 @@
       "message_id": 12053,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:54.216732+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-04-15 00:00:00+00:00": {
@@ -3561,7 +3519,7 @@
       "message_id": 12054,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:55.300717+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-04-19 00:00:00+00:00": {
@@ -3575,7 +3533,7 @@
       "message_id": 12055,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:56.391874+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Inverse Head & Shoulders|bullish|2026-04-20 00:00:00+00:00": {
@@ -3589,7 +3547,7 @@
       "message_id": 12056,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:57.373396+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-04-23 00:00:00+00:00": {
@@ -3603,7 +3561,7 @@
       "message_id": 12057,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:58.473703+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-04-29 00:00:00+00:00": {
@@ -3617,7 +3575,7 @@
       "message_id": 12058,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:03:59.462981+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Inverse Head & Shoulders|bullish|2026-04-30 00:00:00+00:00": {
@@ -3631,7 +3589,7 @@
       "message_id": 12059,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:00.546672+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-05-07 00:00:00+00:00": {
@@ -3645,7 +3603,7 @@
       "message_id": 12060,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:01.630762+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Inverse Head & Shoulders|bullish|2026-05-11 00:00:00+00:00": {
@@ -3659,7 +3617,7 @@
       "message_id": 12061,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:02.702325+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-05-11 00:00:00+00:00": {
@@ -3673,7 +3631,7 @@
       "message_id": 12062,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:03.866815+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Inverse Head & Shoulders|bullish|2026-05-24 00:00:00+00:00": {
@@ -3687,7 +3645,7 @@
       "message_id": 12063,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:04.884512+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-06-17 00:00:00+00:00": {
@@ -3701,7 +3659,7 @@
       "message_id": 12064,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:05.994781+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Inverse Head & Shoulders|bullish|2026-06-28 00:00:00+00:00": {
@@ -3715,7 +3673,7 @@
       "message_id": 12065,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:06.994024+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-07-07 00:00:00+00:00": {
@@ -3729,7 +3687,7 @@
       "message_id": 12066,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:08.089319+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Inverse Head & Shoulders|bullish|2026-07-13 00:00:00+00:00": {
@@ -3743,7 +3701,7 @@
       "message_id": 12067,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:09.173372+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-07-16 00:00:00+00:00": {
@@ -3757,7 +3715,7 @@
       "message_id": 12068,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:10.202482+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Inverse Head & Shoulders|bullish|2026-07-20 00:00:00+00:00": {
@@ -3771,7 +3729,7 @@
       "message_id": 12069,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:11.301335+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-07-24 00:00:00+00:00": {
@@ -3785,7 +3743,7 @@
       "message_id": 12070,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:12.286252+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-07-29 00:00:00+00:00": {
@@ -3799,7 +3757,7 @@
       "message_id": 12071,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:13.429748+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-08-02 00:00:00+00:00": {
@@ -3813,7 +3771,7 @@
       "message_id": 12072,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:14.399856+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Inverse Head & Shoulders|bullish|2026-08-03 00:00:00+00:00": {
@@ -3827,7 +3785,7 @@
       "message_id": 12073,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:15.497799+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "cryETHUSD|1D|Head & Shoulders|bearish|2026-08-12 00:00:00+00:00": {
@@ -3841,7 +3799,7 @@
       "message_id": 12074,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:16.557754+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxGBPJPY|1D|Double Bottom|bullish|2026-08-03 00:00:00+00:00": {
@@ -3855,7 +3813,7 @@
       "message_id": 12090,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:50.687187+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxGBPNZD|1D|Double Top|bearish|2026-04-07 00:00:00+00:00": {
@@ -3869,7 +3827,7 @@
       "message_id": 12091,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:53.182431+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     },
     "frxGBPNZD|1D|Double Top|bearish|2026-07-08 00:00:00+00:00": {
@@ -3883,7 +3841,7 @@
       "message_id": 12093,
       "chat_id": "5952681562",
       "opened_at": "2026-10-07T01:04:55.192962+00:00",
-      "bars_open": 0,
+      "bars_open": 1,
       "max_bars": 20
     }
   },
@@ -82943,6 +82901,60 @@
       "outcome": "stop",
       "exit_price": 1939.19,
       "closed_at": "2026-10-07T00:58:58.841300+00:00"
+    },
+    {
+      "symbol": "frxXAUUSD",
+      "timeframe": "15m",
+      "pattern": "Double Top",
+      "direction": "bearish",
+      "entry": 4136.66,
+      "stop": 4225.31,
+      "target": 4024.8499999999995,
+      "message_id": 3997,
+      "chat_id": "5952681562",
+      "opened_at": "2026-10-05T15:53:47.139333+00:00",
+      "bars_open": 60,
+      "max_bars": 60,
+      "watch_key": "frxXAUUSD|15m|Double Top|bearish|2026-10-05 08:15:00+00:00",
+      "outcome": "expired",
+      "exit_price": 4152.5,
+      "closed_at": "2026-10-07T01:27:16.922805+00:00"
+    },
+    {
+      "symbol": "frxXAUUSD",
+      "timeframe": "15m",
+      "pattern": "Head & Shoulders",
+      "direction": "bearish",
+      "entry": 4136.66,
+      "stop": 4225.31,
+      "target": 3947.2949999999983,
+      "message_id": 3998,
+      "chat_id": "5952681562",
+      "opened_at": "2026-10-05T15:53:48.245259+00:00",
+      "bars_open": 60,
+      "max_bars": 60,
+      "watch_key": "frxXAUUSD|15m|Head & Shoulders|bearish|2026-10-05 08:15:00+00:00",
+      "outcome": "expired",
+      "exit_price": 4152.5,
+      "closed_at": "2026-10-07T01:27:17.863276+00:00"
+    },
+    {
+      "symbol": "OTC_FTSE",
+      "timeframe": "15m",
+      "pattern": "Double Top",
+      "direction": "bearish",
+      "entry": 10502.7,
+      "stop": 10691.2,
+      "target": 10069.599999999999,
+      "message_id": 4002,
+      "chat_id": "5952681562",
+      "opened_at": "2026-10-05T15:54:14.130978+00:00",
+      "bars_open": 60,
+      "max_bars": 60,
+      "watch_key": "OTC_FTSE|15m|Double Top|bearish|2026-10-01 12:30:00+00:00",
+      "outcome": "expired",
+      "exit_price": 10532.95,
+      "closed_at": "2026-10-07T01:27:18.801212+00:00"
     }
   ],
   "forming": {},
