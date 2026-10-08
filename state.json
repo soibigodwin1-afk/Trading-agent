@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-08T20:52:15.546389+00:00",
+  "last_run": "2026-10-08T21:17:29.174361+00:00",
   "alerted": {
     "frxGBPUSD|15m|Rounding Top|bearish|2026-10-02 20:30:00+00:00": "2026-10-02 20:30:00+00:00",
     "frxXAUUSD|15m|Double Bottom|bullish|2026-10-02 01:00:00+00:00": "2026-10-02 01:00:00+00:00",
@@ -827,22 +827,7 @@
     "OTC_DJI|15m|Selling Climax|bullish|2026-10-07 19:30:00+00:00": "2026-10-07 19:30:00+00:00",
     "OTC_NDX|15m|Rounding Top|bearish|2026-10-07 19:30:00+00:00": "2026-10-07 19:30:00+00:00"
   },
-  "watching": {
-    "frxXAUUSD|15m|Double Bottom|bullish|2026-10-07 12:45:00+00:00": {
-      "symbol": "frxXAUUSD",
-      "timeframe": "15m",
-      "pattern": "Double Bottom",
-      "direction": "bullish",
-      "entry": 4102.41,
-      "stop": 4066.75,
-      "target": 4165.640000000001,
-      "message_id": 17150,
-      "chat_id": "5952681562",
-      "opened_at": "2026-10-07T14:51:35.131722+00:00",
-      "bars_open": 60,
-      "max_bars": 60
-    }
-  },
+  "watching": {},
   "outcomes": [
     {
       "symbol": "OTC_N225",
@@ -134907,6 +134892,24 @@
       "outcome": "expired",
       "exit_price": 4130.14,
       "closed_at": "2026-10-08T19:17:06.686375+00:00"
+    },
+    {
+      "symbol": "frxXAUUSD",
+      "timeframe": "15m",
+      "pattern": "Double Bottom",
+      "direction": "bullish",
+      "entry": 4102.41,
+      "stop": 4066.75,
+      "target": 4165.640000000001,
+      "message_id": 17150,
+      "chat_id": "5952681562",
+      "opened_at": "2026-10-07T14:51:35.131722+00:00",
+      "bars_open": 60,
+      "max_bars": 60,
+      "watch_key": "frxXAUUSD|15m|Double Bottom|bullish|2026-10-07 12:45:00+00:00",
+      "outcome": "expired",
+      "exit_price": 4133.47,
+      "closed_at": "2026-10-08T21:16:35.049397+00:00"
     }
   ],
   "forming": {},
