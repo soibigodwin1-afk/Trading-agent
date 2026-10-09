@@ -1,5 +1,5 @@
 {
-  "last_run": "2026-10-08T23:47:33.621123+00:00",
+  "last_run": "2026-10-09T00:28:47.118952+00:00",
   "alerted": {
     "frxGBPUSD|15m|Rounding Top|bearish|2026-10-02 20:30:00+00:00": "2026-10-02 20:30:00+00:00",
     "frxXAUUSD|15m|Double Bottom|bullish|2026-10-02 01:00:00+00:00": "2026-10-02 01:00:00+00:00",
@@ -77,9 +77,6 @@
     "frxAUDNZD|1D|Rounding Top|bearish|2026-10-01 00:00:00+00:00": "2026-10-01 00:00:00+00:00",
     "frxEURUSD|1D|Rounding Top|bearish|2026-10-01 00:00:00+00:00": "2026-10-01 00:00:00+00:00",
     "frxGBPUSD|1D|Rounding Top|bearish|2026-10-01 00:00:00+00:00": "2026-10-01 00:00:00+00:00",
-    "frxNZDJPY|1D|Double Top|bearish|2026-08-25 00:00:00+00:00": "2026-08-25 00:00:00+00:00",
-    "frxNZDJPY|1D|Head & Shoulders|bearish|2026-08-25 00:00:00+00:00": "2026-08-25 00:00:00+00:00",
-    "frxNZDJPY|1D|Ascending Triangle|bullish|2026-08-25 00:00:00+00:00": "2026-08-25 00:00:00+00:00",
     "frxUSDCHF|1D|Rounding Top|bearish|2026-10-01 00:00:00+00:00": "2026-10-01 00:00:00+00:00",
     "frxUSDJPY|1D|Head & Shoulders|bearish|2026-09-02 00:00:00+00:00": "2026-09-02 00:00:00+00:00",
     "cryBTCUSD|1D|Double Top|bearish|2026-08-28 00:00:00+00:00": "2026-08-28 00:00:00+00:00",
@@ -96,7 +93,6 @@
     "cryBTCUSD|1D|Broadening Bottom|bullish|2026-09-11 00:00:00+00:00": "2026-09-11 00:00:00+00:00",
     "cryBTCUSD|1D|Rounding Top|bearish|2026-10-03 00:00:00+00:00": "2026-10-03 00:00:00+00:00",
     "cryBTCUSD|1D|Ascending Triangle|bullish|2026-10-02 00:00:00+00:00": "2026-10-02 00:00:00+00:00",
-    "cryETHUSD|1D|Double Top|bearish|2026-08-25 00:00:00+00:00": "2026-08-25 00:00:00+00:00",
     "cryETHUSD|1D|Double Top|bearish|2026-08-27 00:00:00+00:00": "2026-08-27 00:00:00+00:00",
     "cryETHUSD|1D|Double Bottom|bullish|2026-08-28 00:00:00+00:00": "2026-08-28 00:00:00+00:00",
     "cryETHUSD|1D|Double Top|bearish|2026-08-28 00:00:00+00:00": "2026-08-28 00:00:00+00:00",
@@ -129,8 +125,6 @@
     "cryETHUSD|1D|Rounding Top|bearish|2026-10-03 00:00:00+00:00": "2026-10-03 00:00:00+00:00",
     "cryETHUSD|1D|Ascending Triangle|bullish|2026-10-02 00:00:00+00:00": "2026-10-02 00:00:00+00:00",
     "frxEURNZD|1D|Rounding Top|bearish|2026-10-01 00:00:00+00:00": "2026-10-01 00:00:00+00:00",
-    "frxGBPJPY|1D|Double Top|bearish|2026-08-25 00:00:00+00:00": "2026-08-25 00:00:00+00:00",
-    "frxGBPJPY|1D|Head & Shoulders|bearish|2026-08-25 00:00:00+00:00": "2026-08-25 00:00:00+00:00",
     "frxGBPNZD|1D|Rounding Top|bearish|2026-10-01 00:00:00+00:00": "2026-10-01 00:00:00+00:00",
     "frxGBPNZD|1D|Ascending Triangle|bullish|2026-08-28 00:00:00+00:00": "2026-08-28 00:00:00+00:00",
     "cryBTCUSD|15m|Rounding Bottom|bullish|2026-10-04 21:00:00+00:00": "2026-10-04 21:00:00+00:00",
